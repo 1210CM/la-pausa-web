@@ -1,0 +1,52 @@
+baseURL = "https://lapausapodcast.com/"
+locale = "es-UY"
+title = "La Pausa"
+theme = "PaperMod"
+defaultContentLanguage = "es"
+paginate = 10
+
+[params]
+  author = "Claudio"
+  description = "En la era de la prisa, tomarse el tiempo para pensar es un acto de rebeldía."
+  defaultTheme = "dark"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = false
+  ShowToc = false
+  dateFormat = "2 January 2006"
+
+  [params.homeInfoParams]
+    Title = "La Pausa"
+    Content = "En la era de la prisa, tomarse el tiempo para pensar es un acto de rebeldía."
+
+  [[params.socialIcons]]
+    name = "youtube"
+    url = "https://youtube.com/@podlapausa"
+
+  [[params.socialIcons]]
+    name = "instagram"
+    url = "https://instagram.com/podlapausa"
+
+  [[params.socialIcons]]
+    name = "spotify"
+    url = "https://creators.spotify.com/pod/show/033mZPECIvONzIm78UYpgo/home"
+
+[menu]
+  [[menu.main]]
+    name = "Episodios"
+    url = "/episodios/"
+    weight = 1
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 2
+  [[menu.main]]
+    name = "Sobre el podcast"
+    url = "/sobre/"
+    weight = 3
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"

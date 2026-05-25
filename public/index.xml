@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>La Pausa</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on La Pausa</description>
+    <generator>Hugo</generator>
+    <language>es-UY</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre el podcast</title>
+      <link>http://localhost:1313/sobre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sobre/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;La Pausa&lt;/strong&gt; es un podcast semanal conducido por Claudio, desde Uruguay. Encontranos en todas las redes como &lt;strong&gt;@podlapausa&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Cada episodio toma una decisión real — de trabajo, de vida, de relaciones — y la analiza con calma. Sin urgencia, sin fórmulas mágicas. Solo pensar bien antes de actuar.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;En la era de la prisa, tomarse el tiempo para pensar es un acto de rebeldía.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
