@@ -60,10 +60,21 @@ h1, h2, h3, h4, h5, h6,
 /* Footer */
 .footer {
     font-size: 0.85rem;
+    color: var(--secondary);
 }
 
 .footer a {
     display: inline-flex;
     align-items: center;
     gap: 4px;
+}
+
+/* Footer en modo claro — texto más oscuro para legibilidad */
+:root:not([data-theme="dark"]) .footer,
+:root:not([data-theme="dark"]) .footer a {
+    color: #444444;
+}
+
+:root:not([data-theme="dark"]) .footer a:hover {
+    color: #1a1a2e;
 }
