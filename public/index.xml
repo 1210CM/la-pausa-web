@@ -1,20 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>La Pausa</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on La Pausa</description>
-    <generator>Hugo</generator>
-    <language>es-UY</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Sobre el podcast</title>
-      <link>http://localhost:1313/sobre/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sobre/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;La Pausa&lt;/strong&gt; es un podcast semanal conducido por Claudio, desde Uruguay. Encontranos en todas las redes como &lt;strong&gt;@podlapausa&lt;/strong&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>La Pausa</title><link>https://podlapausa.com/</link><description>Recent content on La Pausa</description><image><title>La Pausa</title><url>https://podlapausa.com/images/banner.jpeg</url><link>https://podlapausa.com/images/banner.jpeg</link></image><generator>Hugo</generator><language>es-UY</language><lastBuildDate>Tue, 26 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://podlapausa.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Política de Privacidad</title><link>https://podlapausa.com/privacidad/</link><pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate><guid>https://podlapausa.com/privacidad/</guid><description>&lt;p&gt;&lt;em&gt;Última actualización: 26 de mayo de 2026&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Esta política describe cómo &lt;strong&gt;La Pausa&lt;/strong&gt; (podlapausa.com) recopila, usa y protege tu información personal. Es válida para todos los visitantes, incluyendo residentes de la Unión Europea (GDPR) y del estado de California, Estados Unidos (CCPA).&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="qué-información-recopilamos"&gt;Qué información recopilamos&lt;/h2&gt;
+&lt;p&gt;La única información personal que recopilamos es tu &lt;strong&gt;dirección de correo electrónico&lt;/strong&gt;, y solo si vos decidís suscribirte voluntariamente a nuestra lista.&lt;/p&gt;
+&lt;p&gt;No recopilamos nombres, datos de pago, ubicación ni ningún otro dato personal.&lt;/p&gt;</description></item><item><title>Sobre el podcast</title><link>https://podlapausa.com/sobre/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://podlapausa.com/sobre/</guid><description>&lt;p&gt;&lt;strong&gt;La Pausa&lt;/strong&gt; es un podcast semanal conducido por Claudio, desde Uruguay. Encontranos en todas las redes como &lt;strong&gt;@podlapausa&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Cada episodio toma una decisión real — de trabajo, de vida, de relaciones — y la analiza con calma. Sin urgencia, sin fórmulas mágicas. Solo pensar bien antes de actuar.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;En la era de la prisa, tomarse el tiempo para pensar es un acto de rebeldía.&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+&lt;p&gt;&lt;em&gt;En la era de la prisa, tomarse el tiempo para pensar es un acto de rebeldía.&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Suscribite a La Pausa</title><link>https://podlapausa.com/suscribirse/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://podlapausa.com/suscribirse/</guid><description>Una vez por semana, una idea para decidir mejor. Sin spam.</description></item></channel></rss>
