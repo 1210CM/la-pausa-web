@@ -52,6 +52,55 @@ h1, h2, h3, h4, h5, h6,
     font-family: 'Playfair Display', serif;
 }
 
+/* Banner de cookies */
+#cookie-banner {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #16213e;
+    border-top: 1px solid #252545;
+    padding: 1rem 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    z-index: 1000;
+    font-size: 0.875rem;
+    color: #e8e8e8;
+}
+
+#cookie-banner p {
+    margin: 0;
+}
+
+#cookie-banner a {
+    color: #c9a96e;
+}
+
+#cookie-banner button {
+    background: #c9a96e;
+    color: #1a1a2e;
+    border: none;
+    padding: 0.5rem 1.5rem;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    white-space: nowrap;
+}
+
+#cookie-banner button:hover {
+    background: #e8c88a;
+}
+
+@media (max-width: 600px) {
+    #cookie-banner {
+        flex-direction: column;
+        text-align: center;
+    }
+}
+
 /* Ícono toggle de tema — mismo color que el texto */
 #theme-toggle svg {
     stroke: var(--primary);

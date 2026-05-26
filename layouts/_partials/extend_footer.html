@@ -1,0 +1,18 @@
+<div id="cookie-banner" style="display:none">
+    <p>Usamos cookies para mejorar tu experiencia. Al continuar navegando aceptás su uso.
+        <a href="/privacidad/">Más información</a>
+    </p>
+    <button id="cookie-accept">Aceptar</button>
+</div>
+
+<script>
+    (function() {
+        if (!localStorage.getItem("cookies-accepted")) {
+            document.getElementById("cookie-banner").style.display = "flex";
+        }
+        document.getElementById("cookie-accept").addEventListener("click", function() {
+            localStorage.setItem("cookies-accepted", "true");
+            document.getElementById("cookie-banner").style.display = "none";
+        });
+    })();
+</script>
