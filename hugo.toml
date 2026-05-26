@@ -17,9 +17,16 @@ paginate = 10
   ShowToc = false
   dateFormat = "2 January 2006"
 
-  [params.homeInfoParams]
-    Title = "La Pausa"
-    Content = "En la era de la prisa, tomarse el tiempo para pensar es un acto de rebeldía."
+  images = ["/images/banner.jpeg"]
+
+  [params.profileMode]
+    enabled = true
+    title = "La Pausa"
+    subtitle = "En la era de la prisa, tomarse el tiempo para pensar es un acto de rebeldía."
+    imageUrl = "/images/claudio-podcast.jpeg"
+    imageWidth = 160
+    imageHeight = 160
+    imageTitle = "Claudio — La Pausa"
 
   [[params.socialIcons]]
     name = "youtube"
