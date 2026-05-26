@@ -1,5 +1,8 @@
 .profile-banner {
-    width: 100%;
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    margin-left: -50vw;
     max-height: 320px;
     background-color: #1a1a2e;
     display: flex;
