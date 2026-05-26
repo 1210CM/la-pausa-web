@@ -13,3 +13,8 @@
     height: auto;
     display: block;
 }
+
+.profile {
+    min-height: unset !important;
+    padding: 1rem 0 2rem 0 !important;
+}
