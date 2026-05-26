@@ -28,6 +28,10 @@ paginate = 10
     imageHeight = 160
     imageTitle = "Claudio — La Pausa"
 
+    [[params.profileMode.buttons]]
+      name = "Suscribite"
+      url = "/suscribirse/"
+
   [[params.socialIcons]]
     name = "youtube"
     url = "https://youtube.com/@podlapausa"
@@ -53,6 +57,10 @@ paginate = 10
     name = "Sobre el podcast"
     url = "/sobre/"
     weight = 3
+  [[menu.main]]
+    name = "Suscribite"
+    url = "/suscribirse/"
+    weight = 4
 
 [taxonomies]
   tag = "tags"
