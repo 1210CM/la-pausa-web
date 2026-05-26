@@ -13,51 +13,41 @@ h1, h2, h3, h4, h5, h6,
 }
 
 /* Paleta dark mode */
-.dark {
-    --theme:   #1a1a2e;
-    --entry:   #16213e;
-    --primary: #e8e8e8;
+:root[data-theme="dark"] {
+    --theme:     #1a1a2e;
+    --entry:     #16213e;
+    --primary:   #e8e8e8;
     --secondary: #7b9cbc;
-    --tertiary: #252545;
-    --content: #e8e8e8;
-    --border:  #252545;
+    --tertiary:  #252545;
+    --content:   #e8e8e8;
+    --border:    #252545;
+    color-scheme: dark;
 }
 
 /* Links */
-.dark a {
+:root[data-theme="dark"] a {
     color: #7b9cbc;
 }
 
-.dark a:hover {
+:root[data-theme="dark"] a:hover {
     color: #c9a96e;
 }
 
-/* Acento dorado en títulos del home */
-.dark .profile h1 {
-    color: #e8e8e8;
-}
-
-.dark .profile span {
+/* Subtítulo del home */
+:root[data-theme="dark"] .profile span {
     color: #7b9cbc;
 }
 
-/* Botones de navegación y social icons */
-.dark .social-icons a {
+/* Social icons */
+:root[data-theme="dark"] .social-icons a {
     color: #7b9cbc;
 }
 
-.dark .social-icons a:hover {
+:root[data-theme="dark"] .social-icons a:hover {
     color: #c9a96e;
-}
-
-/* Header */
-.dark header {
-    background: #1a1a2e;
-    border-bottom: 1px solid #252545;
 }
 
 /* Nombre del sitio en el header */
-.dark .logo a {
-    color: #e8e8e8;
+:root[data-theme="dark"] .logo a {
     font-family: 'Playfair Display', serif;
 }
