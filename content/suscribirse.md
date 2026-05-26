@@ -2,6 +2,8 @@
 title: "Suscribite a La Pausa"
 description: "Una vez por semana, una idea para decidir mejor. Sin spam."
 draft: false
+hidemeta: true
+ShowBreadCrumbs: false
 ---
 
 <style>
@@ -58,18 +60,6 @@ draft: false
     <div></div>
     <div id="sib-container" class="sib-container--large sib-container--vertical" style="text-align:center; direction:ltr; margin: 0 auto;">
       <form id="sib-form" method="POST" action="https://19c98118.sibforms.com/serve/MUIFAE7KUMb0M_Emp_9-26r7Mbj5thY1Vxc_t-UOcCI6uNL22kMmZDbWdePENTREQTJlNAY2fyfNNj9gRiSVZasS4f7yGAWDY6pDF40td2ioN7n0kK-N86Q1KQoqx0_XZeIHoJz0NIOsRkVGdNKIhYSceBvevBBw1_5YTGW6VZ0RRf1hYzMqOkH6AT1YnTIS5fuxkjuhWLdOsDO0LQ==" data-type="subscription">
-        <div style="padding: 8px 0;">
-          <div class="sib-form-block" style="font-size:28px; font-weight:700; text-align:center;">
-            <p>Suscribite a La Pausa</p>
-          </div>
-        </div>
-        <div style="padding: 8px 0;">
-          <div class="sib-form-block" style="font-size:16px; text-align:center;">
-            <div class="sib-text-form-block">
-              <p>Una vez por semana, una idea para decidir mejor. Sin spam.</p>
-            </div>
-          </div>
-        </div>
         <div style="padding: 8px 0;">
           <div class="sib-input sib-form-block">
             <div class="form__entry entry_block">
