@@ -97,6 +97,6 @@ Si realizamos cambios relevantes, lo comunicaremos por correo a los suscriptores
 
 Para cualquier consulta sobre privacidad o para ejercer tus derechos, escribinos a:
 
-**1210claudiomachado@gmail.com**
+**claudiomachado@podlapausa.com**
 
 Respondemos en un plazo máximo de 30 días hábiles.
