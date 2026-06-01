@@ -44,6 +44,10 @@ paginate = 10
     name = "spotify"
     url = "https://creators.spotify.com/pod/show/033mZPECIvONzIm78UYpgo/home"
 
+  [[params.socialIcons]]
+    name = "rss"
+    url = "/feed/"
+
 [menu]
   [[menu.main]]
     name = "Episodios"
