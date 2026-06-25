@@ -7,7 +7,7 @@ paginate = 10
 
 [params]
   author = "Claudio"
-  description = "En la era de la prisa, tomarse el tiempo para pensar es un acto de rebeldía."
+  description = "Podcast sobre psicología y neurociencia de las decisiones. Cada semana, una noticia real y una herramienta práctica para decidir mejor."
   defaultTheme = "dark"
   ShowReadingTime = true
   ShowShareButtons = true
