@@ -1,7 +1,7 @@
 ---
 title: "Decidir bajo presión: el veneno de la urgencia"
 description: "¿Decidís peor con prisa? Descubrí cómo funciona tu cerebro bajo presión y cuáles son las ventanas de reset para recuperar el control. Escuchá el episodio."
-date: 2026-06-29
+date: 2026-06-26
 draft: false
 layout: "single"
 tags: ["decisiones bajo presión", "urgencia", "ventanas de reset", "psicología cognitiva"]
