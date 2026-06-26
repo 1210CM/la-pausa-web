@@ -46,7 +46,7 @@ paginate = 10
 
   [[params.socialIcons]]
     name = "rss"
-    url = "/feed/"
+    url = "https://media.rss.com/la-pausa/feed.xml"
 
 [menu]
   [[menu.main]]
