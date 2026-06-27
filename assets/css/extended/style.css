@@ -77,6 +77,13 @@ h1, h2, h3, h4, h5, h6,
     color: #c9a96e;
 }
 
+/* Headings en contenido */
+:root[data-theme="dark"] h2,
+:root[data-theme="dark"] h3,
+:root[data-theme="dark"] h4 {
+    color: #c9a96e;
+}
+
 /* Tags y categorías */
 :root[data-theme="dark"] .post-tags a,
 :root[data-theme="dark"] .terms-tags a {
