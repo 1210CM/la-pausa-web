@@ -12,7 +12,7 @@ hidemeta: true
     </a>
     <div style="flex:1; min-width:200px;">
       <h3 style="margin:0 0 0.5rem 0; font-size:1.1rem;">
-        <a href="/episodios/e01t01-decidir-bajo-presion/" style="text-decoration:none;">
+        <a href="/episodios/e01t01-decidir-bajo-presion/" style="text-decoration:none; color:#c9a96e;">
           Decidir bajo presión: el veneno de la urgencia
         </a>
       </h3>
@@ -47,7 +47,7 @@ hidemeta: true
   <img src="/images/e01-blog-cover.jpg" alt="El veneno de la urgencia"
        style="width:80px; height:80px; object-fit:cover; border-radius:8px; flex-shrink:0;" />
   <div>
-    <p style="margin:0 0 0.3rem; font-weight:600; font-size:1rem;">El veneno de la urgencia</p>
+    <p style="margin:0 0 0.3rem; font-weight:600; font-size:1rem; color:#c9a96e;">El veneno de la urgencia</p>
     <p style="margin:0; opacity:0.7; font-size:0.85rem;">La prisa te paraliza antes de que puedas pensar. Leé por qué — y cómo salir de la trampa.</p>
   </div>
 </a>

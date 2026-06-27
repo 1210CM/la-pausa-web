@@ -57,15 +57,9 @@ h1, h2, h3, h4, h5, h6,
     color: #e8c88a;
 }
 
-/* Títulos de artículos y episodios en listados */
-:root[data-theme="dark"] .entry-header h2 a,
-:root[data-theme="dark"] .post-title a {
+/* Títulos de artículos en el listado del blog */
+:root[data-theme="dark"] .entry-header h2 {
     color: #c9a96e;
-}
-
-:root[data-theme="dark"] .entry-header h2 a:hover,
-:root[data-theme="dark"] .post-title a:hover {
-    color: #e8c88a;
 }
 
 /* Tags y categorías */
