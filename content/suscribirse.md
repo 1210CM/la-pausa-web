@@ -32,13 +32,13 @@ ShowBreadCrumbs: false
 
   /* Overrides para el tema oscuro del sitio */
   .sib-form { background-color: transparent !important; }
-  #sib-container { background-color: #16213e !important; border-color: #252545 !important; max-width: 100% !important; }
-  .sib-form-block p { color: #e8e8e8 !important; }
-  .entry__label { color: #7b9cbc !important; }
-  .input { background-color: #1a1a2e !important; border-color: #252545 !important; color: #e8e8e8 !important; }
-  .entry__specification { color: #7b9cbc !important; }
-  .sib-form-block__button { background-color: #c9a96e !important; color: #1a1a2e !important; font-weight: 700 !important; }
-  .sib-form-block__button:hover { background-color: #e8c88a !important; }
+  #sib-container { background-color: #c9a96e !important; border-color: #c9a96e !important; max-width: 100% !important; }
+  .sib-form-block p { color: #1a1a2e !important; }
+  .entry__label { color: #1a1a2e !important; font-weight: 700 !important; }
+  .input { background-color: #1a1a2e !important; border-color: #1a1a2e !important; color: #e8e8e8 !important; }
+  .entry__specification { color: #1a1a2e !important; }
+  .sib-form-block__button { background-color: #1a1a2e !important; color: #c9a96e !important; font-weight: 700 !important; }
+  .sib-form-block__button:hover { background-color: #16213e !important; }
 </style>
 <link rel="stylesheet" href="https://sibforms.com/forms/end-form/build/sib-styles.css">
 

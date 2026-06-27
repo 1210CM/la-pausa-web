@@ -27,7 +27,7 @@
 
   <div style="flex:1; min-width:0;">
     <p style="margin:0; font-weight:600; font-size:0.95rem; color:#c9a96e;">{{ .Title }}</p>
-    <p style="margin:0.2rem 0 0; opacity:0.55; font-size:0.78rem;">{{ .Date.Format "2 January 2006" }}</p>
+    <p style="margin:0.2rem 0 0; opacity:0.55; font-size:0.78rem;">{{ .Date | time.Format ":date_long" }}</p>
   </div>
 
   <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24"
