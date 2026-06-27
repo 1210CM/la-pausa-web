@@ -50,6 +50,35 @@ h1, h2, h3, h4, h5, h6,
 /* Nombre del sitio en el header */
 :root[data-theme="dark"] .logo a {
     font-family: 'Playfair Display', serif;
+    color: #c9a96e;
+}
+
+:root[data-theme="dark"] .logo a:hover {
+    color: #e8c88a;
+}
+
+/* Títulos de artículos y episodios en listados */
+:root[data-theme="dark"] .entry-header h2 a,
+:root[data-theme="dark"] .post-title a {
+    color: #c9a96e;
+}
+
+:root[data-theme="dark"] .entry-header h2 a:hover,
+:root[data-theme="dark"] .post-title a:hover {
+    color: #e8c88a;
+}
+
+/* Tags y categorías */
+:root[data-theme="dark"] .post-tags a,
+:root[data-theme="dark"] .terms-tags a {
+    color: #c9a96e;
+    border-color: #c9a96e;
+}
+
+:root[data-theme="dark"] .post-tags a:hover,
+:root[data-theme="dark"] .terms-tags a:hover {
+    background: #c9a96e;
+    color: #1a1a2e;
 }
 
 /* Banner de cookies */
