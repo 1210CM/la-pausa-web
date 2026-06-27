@@ -33,6 +33,21 @@ h1, h2, h3, h4, h5, h6,
     color: #c9a96e;
 }
 
+/* Menú de navegación */
+:root[data-theme="dark"] .menu a span {
+    color: #c9a96e;
+}
+
+:root[data-theme="dark"] .menu a:hover span {
+    color: #e8c88a;
+}
+
+/* Breadcrumbs */
+:root[data-theme="dark"] .breadcrumbs a,
+:root[data-theme="dark"] .breadcrumbs {
+    color: #c9a96e;
+}
+
 /* Subtítulo del home */
 :root[data-theme="dark"] .profile span {
     color: #7b9cbc;
