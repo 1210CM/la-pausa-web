@@ -42,6 +42,18 @@ hidemeta: true
 
 <hr style="opacity:0.2; margin: 1.5rem 0;" />
 
+<p style="text-transform:uppercase; font-size:0.75rem; letter-spacing:0.1em; opacity:0.6; margin-bottom:0.75rem;">Último artículo</p>
+<a href="/blog/e01-decidir-bajo-presion/" style="display:flex; align-items:center; gap:1rem; text-decoration:none; color:inherit;">
+  <img src="/images/e01-blog-cover.jpg" alt="El veneno de la urgencia"
+       style="width:80px; height:80px; object-fit:cover; border-radius:8px; flex-shrink:0;" />
+  <div>
+    <p style="margin:0 0 0.3rem; font-weight:600; font-size:1rem;">El veneno de la urgencia</p>
+    <p style="margin:0; opacity:0.7; font-size:0.85rem;">La prisa te paraliza antes de que puedas pensar. Leé por qué — y cómo salir de la trampa.</p>
+  </div>
+</a>
+
+<hr style="opacity:0.2; margin: 1.5rem 0;" />
+
 <p style="font-size:0.9rem;">
   <a href="/episodios/">Ver todos los episodios →</a> &nbsp;·&nbsp; <a href="/blog/">Blog →</a>
 </p>
