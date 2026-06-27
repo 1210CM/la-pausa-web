@@ -24,6 +24,16 @@ hidemeta: true
   </div>
 </div>
 
+<div style="margin-top:1.25rem;">
+  <p style="font-weight:600; margin-bottom:0.5rem;">En este episodio:</p>
+  <ul style="margin:0; padding-left:1.25rem; opacity:0.85; font-size:0.95rem; line-height:1.7;">
+    <li>Por qué las notificaciones y el comercio electrónico están diseñados para crear urgencia artificial (FOMO).</li>
+    <li>Qué revela el informe de UNFPA sobre la presión de decidir rápido en la juventud de América Latina.</li>
+    <li>Los tres estudios científicos sobre el secuestro mental bajo prisa.</li>
+    <li>Cómo aplicar las ventanas de reset (inmediata, hormonal y cognitiva profunda) en tu vida cotidiana.</li>
+  </ul>
+</div>
+
 <hr style="opacity:0.2; margin: 1.5rem 0;" />
 
 <p style="font-size:0.9rem;">
