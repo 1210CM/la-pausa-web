@@ -1,6 +1,6 @@
 ---
 title: "Decidir bajo presión: el veneno de la urgencia"
-description: ""
+description: "¿Decidís peor con prisa? Descubrí cómo funciona tu cerebro bajo presión y cuáles son las ventanas de reset para recuperar el control."
 date: 2026-06-26
 draft: false
 layout: "single"
