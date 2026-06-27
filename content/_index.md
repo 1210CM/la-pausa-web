@@ -3,6 +3,14 @@ title: ""
 hidemeta: true
 ---
 
-**Los episodios están en camino.**
+## Último episodio
 
-Suscribite para ser de los primeros en escucharlos — y llevarte el Kit de Decisiones de bienvenida.
+### [Decidir bajo presión: el veneno de la urgencia](/episodios/e01t01-decidir-bajo-presion/)
+
+¿Quién decide en tu cabeza cuando sentís que el tiempo se acaba? Descubrí por qué la prisa bloquea tu cerebro y cómo aplicar las ventanas de reset para recuperar el control.
+
+[Escuchar episodio →](/episodios/e01t01-decidir-bajo-presion/)
+
+---
+
+[Ver todos los episodios →](/episodios/) &nbsp;·&nbsp; [Blog →](/blog/)
