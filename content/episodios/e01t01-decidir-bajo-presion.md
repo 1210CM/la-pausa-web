@@ -6,6 +6,7 @@ draft: false
 layout: "single"
 tags: ["decisiones bajo presión", "urgencia", "ventanas de reset", "psicología cognitiva"]
 categories: ["Temporada 1"]
+listImage: /images/e01t01-cover-square.jpg
 ShowReadingTime: false
 ShowBreadCrumbs: true
 hidemeta: true
