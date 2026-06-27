@@ -60,3 +60,9 @@
     </div>
     {{- end}}
 </div>
+
+{{- with .Content }}
+<div class="post-content" style="max-width:800px; margin:2rem auto; padding:0 1rem;">
+    {{- . | safeHTML }}
+</div>
+{{- end }}
