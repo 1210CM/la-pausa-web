@@ -27,3 +27,12 @@ hidemeta: true
 ---
 
 *[Leé el artículo completo →](/blog/e01-decidir-bajo-presion/)*
+
+---
+
+## Documentación
+
+- UNFPA América Latina y el Caribe — [Adolescencia y Juventud](https://lac.unfpa.org/es/topics/adolescencia-y-juventud)
+- Zhou et al. (2024) — *Frontiers in Psychology* — [doi:10.3389/fpsyg.2024.1451674](https://doi.org/10.3389/fpsyg.2024.1451674)
+- Ordoñez & Benson (1997) — *Organizational Behavior and Human Decision Processes* — [doi:10.1006/obhd.1997.2717](https://doi.org/10.1006/obhd.1997.2717)
+- Yahoodik et al. (2021) — *Human Factors and Ergonomics Society* — [doi:10.1177/1071181321651166](https://doi.org/10.1177/1071181321651166)
