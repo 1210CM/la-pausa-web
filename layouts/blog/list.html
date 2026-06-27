@@ -1,0 +1,37 @@
+{{- define "main" }}
+
+{{- partial "breadcrumbs.html" . }}
+
+<header class="page-header">
+  <h1>{{ .Title }}</h1>
+</header>
+
+{{- range .Pages.ByDate.Reverse }}
+<article class="post-entry">
+  {{- $isHidden := (.Param "cover.hiddenInList") | default (.Param "cover.hidden") | default false }}
+  {{- partial "cover.html" (dict "cxt" . "IsSingle" false "isHidden" $isHidden) }}
+  <header class="entry-header">
+    <h2>{{ .Title }}</h2>
+  </header>
+  {{- if (ne (.Param "hideSummary") true) }}
+  <div class="entry-content">
+    <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
+  </div>
+  {{- end }}
+  <footer class="entry-footer">
+    {{- partial "post_meta.html" . -}}
+  </footer>
+  <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+</article>
+{{- end }}
+
+<!-- CTA suscripción -->
+<div style="margin-top:2.5rem; padding:1.5rem; border:1px solid rgba(255,255,255,0.1); border-radius:10px; text-align:center;">
+  <p style="margin:0 0 0.4rem; font-weight:600; font-size:1rem;">¿Te gustó lo que leíste?</p>
+  <p style="margin:0 0 1.25rem; opacity:0.7; font-size:0.9rem;">Suscribite y recibí el próximo artículo directo en tu correo — más el Kit de Decisiones gratis.</p>
+  <a href="/suscribirse/" style="display:inline-block; padding:0.6rem 1.4rem; background:rgba(255,255,255,0.1); border:1px solid rgba(255,255,255,0.2); border-radius:6px; font-size:0.9rem; text-decoration:none; font-weight:500;">
+    Suscribirme →
+  </a>
+</div>
+
+{{- end }}
