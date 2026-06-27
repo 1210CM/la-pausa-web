@@ -1,5 +1,5 @@
 ---
-title: "Decidir bajo presión: el veneno de la urgencia"
+title: "El veneno de la urgencia"
 description: "¿Decidís peor con prisa? Descubrí cómo funciona tu cerebro bajo presión y cuáles son las ventanas de reset para recuperar el control."
 date: 2026-06-26
 draft: false
@@ -8,6 +8,10 @@ categories: ["Temporada 1"]
 author: "Claudio"
 ShowReadingTime: true
 ShowBreadCrumbs: true
+cover:
+  image: /images/e01-blog-cover.jpg
+  alt: "El veneno de la urgencia — La Pausa"
+  relative: false
 ---
 
 La serpiente de cascabel no te persigue. Se queda quieta, camuflada entre las piedras, y espera hasta que te acerques lo suficiente como para morderte. Una vez que el veneno entra en tu cuerpo, solo tiene que sentarse a esperar la parálisis.
