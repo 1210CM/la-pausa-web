@@ -24,7 +24,12 @@ hidemeta: true
   </div>
 </div>
 
-<div style="margin-top:1.25rem;">
+<a href="/episodios/e01t01-decidir-bajo-presion/" style="display:block; margin-top:1.25rem;">
+  <img src="/images/e01t01-cover.jpg" alt="Decidir bajo presión — La Pausa #1"
+       style="width:100%; border-radius:8px; display:block;" />
+</a>
+
+<div style="margin-top:1rem;">
   <p style="font-weight:600; margin-bottom:0.5rem;">En este episodio:</p>
   <ul style="margin:0; padding-left:1.25rem; opacity:0.85; font-size:0.95rem; line-height:1.7;">
     <li>Por qué las notificaciones y el comercio electrónico están diseñados para crear urgencia artificial (FOMO).</li>
@@ -33,6 +38,7 @@ hidemeta: true
     <li>Cómo aplicar las ventanas de reset (inmediata, hormonal y cognitiva profunda) en tu vida cotidiana.</li>
   </ul>
 </div>
+
 
 <hr style="opacity:0.2; margin: 1.5rem 0;" />
 

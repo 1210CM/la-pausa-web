@@ -6,10 +6,6 @@ draft: false
 layout: "single"
 tags: ["decisiones bajo presión", "urgencia", "ventanas de reset", "psicología cognitiva"]
 categories: ["Temporada 1"]
-cover:
-  image: /images/e01t01-cover.jpg
-  alt: "Decidir bajo presión — La Pausa Episodio 1"
-  relative: false
 ShowReadingTime: false
 ShowBreadCrumbs: true
 hidemeta: true
