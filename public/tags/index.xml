@@ -1,1 +1,87 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Tags on La Pausa</title><link>https://podlapausa.com/tags/</link><description>Recent content in Tags on La Pausa</description><image><title>La Pausa</title><url>https://podlapausa.com/images/banner.jpeg</url><link>https://podlapausa.com/images/banner.jpeg</link></image><generator>Hugo</generator><language>es-UY</language><atom:link href="https://podlapausa.com/tags/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on La Pausa</title>
+    <link>http://localhost:1314/tags/</link>
+    <description>Recent content in Tags on La Pausa</description>
+    <image>
+      <title>La Pausa</title>
+      <url>http://localhost:1314/images/banner.jpeg</url>
+      <link>http://localhost:1314/images/banner.jpeg</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>es-UY</language>
+    <lastBuildDate>Tue, 04 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1314/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amígdala Y Decisiones</title>
+      <link>http://localhost:1314/tags/am%C3%ADgdala-y-decisiones/</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/tags/am%C3%ADgdala-y-decisiones/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Corteza Prefrontal Estrés</title>
+      <link>http://localhost:1314/tags/corteza-prefrontal-estr%C3%A9s/</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/tags/corteza-prefrontal-estr%C3%A9s/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dicotomía De Control Estoicismo</title>
+      <link>http://localhost:1314/tags/dicotom%C3%ADa-de-control-estoicismo/</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/tags/dicotom%C3%ADa-de-control-estoicismo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Miedo a Tomar Una Decisión</title>
+      <link>http://localhost:1314/tags/miedo-a-tomar-una-decisi%C3%B3n/</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/tags/miedo-a-tomar-una-decisi%C3%B3n/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Miedo Al Fracaso</title>
+      <link>http://localhost:1314/tags/miedo-al-fracaso/</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/tags/miedo-al-fracaso/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Decisiones Bajo Presión</title>
+      <link>http://localhost:1314/tags/decisiones-bajo-presi%C3%B3n/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/tags/decisiones-bajo-presi%C3%B3n/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FOMO</title>
+      <link>http://localhost:1314/tags/fomo/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/tags/fomo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Psicología Cognitiva</title>
+      <link>http://localhost:1314/tags/psicolog%C3%ADa-cognitiva/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/tags/psicolog%C3%ADa-cognitiva/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Urgencia</title>
+      <link>http://localhost:1314/tags/urgencia/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/tags/urgencia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ventanas De Reset</title>
+      <link>http://localhost:1314/tags/ventanas-de-reset/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/tags/ventanas-de-reset/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

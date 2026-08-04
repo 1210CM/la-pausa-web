@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Psicología Cognitiva on La Pausa</title>
+    <link>http://localhost:1314/tags/psicolog%C3%ADa-cognitiva/</link>
+    <description>Recent content in Psicología Cognitiva on La Pausa</description>
+    <image>
+      <title>La Pausa</title>
+      <url>http://localhost:1314/images/banner.jpeg</url>
+      <link>http://localhost:1314/images/banner.jpeg</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>es-UY</language>
+    <lastBuildDate>Fri, 26 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1314/tags/psicolog%C3%ADa-cognitiva/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Decidir bajo presión: el veneno de la urgencia</title>
+      <link>http://localhost:1314/episodios/e01t01-decidir-bajo-presion/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/episodios/e01t01-decidir-bajo-presion/</guid>
+      <description>¿Decidís peor con prisa? Descubrí cómo funciona tu cerebro bajo presión y cuáles son las ventanas de reset para recuperar el control.</description>
+    </item>
+    <item>
+      <title>El veneno de la urgencia</title>
+      <link>http://localhost:1314/blog/e01-decidir-bajo-presion/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/blog/e01-decidir-bajo-presion/</guid>
+      <description>¿Decidís peor con prisa? Descubrí cómo funciona tu cerebro bajo presión y cuáles son las ventanas de reset para recuperar el control.</description>
+    </item>
+  </channel>
+</rss>
