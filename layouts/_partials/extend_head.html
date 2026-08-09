@@ -1,0 +1,35 @@
+{{- /* Site-level head extension: podcast-specific schema.org markup */ -}}
+{{- if eq .Section "episodios" }}
+{{- if .IsPage }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "PodcastEpisode",
+  "name": {{ .Title | plainify }},
+  "description": {{ with .Description }}{{ . | plainify }}{{ else }}{{ .Summary | plainify }}{{ end }},
+  "url": {{ .Permalink }},
+  "datePublished": {{ .Date }},
+  {{- if .Params.listImage }}
+  "image": {{ .Params.listImage | absURL }},
+  {{- end }}
+  "partOfSeries": {
+    "@type": "PodcastSeries",
+    "name": "La Pausa",
+    "url": {{ site.Home.Permalink }},
+    "webFeed": "https://media.rss.com/la-pausa/feed.xml"
+  }
+}
+</script>
+{{- else if .IsSection }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "PodcastSeries",
+  "name": "La Pausa",
+  "description": {{ site.Params.description | plainify }},
+  "url": {{ .Permalink }},
+  "webFeed": "https://media.rss.com/la-pausa/feed.xml"
+}
+</script>
+{{- end }}
+{{- end }}
