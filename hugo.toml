@@ -66,6 +66,10 @@ paginate = 10
     url = "/suscribirse/"
     weight = 4
 
+[services]
+  [services.googleAnalytics]
+    id = "G-ZXV3EPLQSJ"
+
 [taxonomies]
   tag = "tags"
   category = "categories"
