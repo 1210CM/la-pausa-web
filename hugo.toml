@@ -1,13 +1,13 @@
 baseURL = "https://podlapausa.com/"
 locale = "es-UY"
-title = "La Pausa"
+title = "La Pausa | Podcast para ayudarte a reflexionar"
 theme = "PaperMod"
 defaultContentLanguage = "es"
 paginate = 10
 
 [params]
   author = "Claudio"
-  description = "Podcast sobre psicología y neurociencia de las decisiones. Cada semana, una noticia real y una herramienta práctica para decidir mejor."
+  description = "Podcast La Pausa: decidir es fácil, acertar no tanto. Cada semana, una noticia real y una herramienta práctica para pensar mejor y decidir con más calma."
   defaultTheme = "dark"
   ShowReadingTime = true
   ShowShareButtons = true
