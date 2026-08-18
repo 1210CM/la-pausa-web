@@ -1,7 +1,7 @@
 ---
 title: "Jóvenes y presión de grupo: ¿quién decide, vos o ellos?"
-description: "Próximamente: el episodio 4 de La Pausa sobre presión de grupo y toma de decisiones. Disponible el martes 18 de agosto."
-date: 2026-08-15
+description: "La presión de grupo no termina al salir de casa: te sigue en el bolsillo. Dos preguntas simples para saber si una decisión es tuya o del grupo."
+date: 2026-08-18
 draft: false
 layout: "single"
 tags: ["presión de grupo", "presión social jóvenes", "experimento Asch", "conformidad social", "rebeldía", "toma de decisiones jóvenes", "consejos para padres", "psicología de las decisiones"]
@@ -13,34 +13,23 @@ hidemeta: true
 ---
 
 {{< rawhtml >}}
-<div style="text-align:center;padding:2.5rem 1rem;">
-  <p style="font-size:1.15rem;line-height:1.6;">
-    El episodio 4 de <strong>La Pausa</strong> está en camino:<br>
-    ¿quién decide en tu vida, vos o el grupo?
-  </p>
-  <p style="font-size:1rem;opacity:0.8;margin-top:0.5rem;">
-    Disponible el martes 18 de agosto.
-  </p>
-  <div id="countdown-e04" style="font-size:2rem;font-weight:bold;margin-top:1.5rem;font-variant-numeric:tabular-nums;">
-    &nbsp;
-  </div>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin-bottom:1.5rem;">
+  <iframe src="https://www.youtube.com/embed/Fl9Di5-sygw" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-<script>
-(function () {
-  var target = new Date("2026-08-18T18:30:00-03:00").getTime();
-  var el = document.getElementById("countdown-e04");
-  function tick() {
-    var diff = target - new Date().getTime();
-    if (diff <= 0) {
-      el.textContent = "¡Ya está disponible!";
-      return;
-    }
-    var days = Math.floor(diff / (1000 * 60 * 60 * 24));
-    var hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-    el.textContent = days + "d " + hours + "h";
-  }
-  tick();
-  setInterval(tick, 60000);
-})();
-</script>
 {{< /rawhtml >}}
+
+{{< rawhtml >}}
+<iframe src="https://player.rss.com/la-pausa/3065947?theme=color&v=2" width="100%" height="202px" title="Jóvenes y presión de grupo: ¿quién decide, vos o ellos? | La Pausa #4" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen scrolling="no"><a href="https://rss.com/podcasts/la-pausa/3065947/">Jóvenes y presión de grupo: ¿quién decide, vos o ellos? | La Pausa #4 | RSS.com</a></iframe>
+{{< /rawhtml >}}
+
+La presión de grupo no termina al salir de casa: te sigue en el bolsillo, las 24 horas. El experimento de Asch, el Triángulo de la Influencia, por qué rebelarte tampoco te hace libre, y dos preguntas simples para saber si una decisión es tuya o del grupo.
+
+---
+
+*[Leé los artículos del episodio →](/blog/)*
+
+---
+
+## Documentación
+
+- Solomon Asch (1951) — *Effects of group pressure upon the modification and distortion of judgments* — Journal of Abnormal and Social Psychology
