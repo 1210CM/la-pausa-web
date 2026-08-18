@@ -1,0 +1,38 @@
+{{- define "main" }}
+
+<div style="max-width:560px;margin:2rem auto;text-align:center;padding:0 1rem;">
+
+  <p style="font-size:1.15rem;line-height:1.6;">
+    Lamentamos el inconveniente: este episodio todavía no está listo en video ni audio,
+    aunque el artículo que lo acompaña ya se puede leer.
+  </p>
+  <p style="font-size:1rem;opacity:0.8;margin-top:0.75rem;">
+    Suscribite y te aviso apenas esté disponible.
+  </p>
+
+  <a href="/suscribirse/"
+     style="display:inline-block;margin-top:1.25rem;padding:0.7rem 1.8rem;background:#c9a96e;color:#1a1a2e;border-radius:6px;text-decoration:none;font-weight:700;">
+    Suscribirme
+  </a>
+
+  <div style="margin-top:3rem;padding-top:2rem;border-top:1px solid rgba(255,255,255,0.1);text-align:left;">
+    <p style="text-transform:uppercase;font-size:0.75rem;letter-spacing:0.08em;opacity:0.6;margin-bottom:1rem;text-align:center;">
+      Mientras tanto, podés escuchar
+    </p>
+
+    {{- range (where site.RegularPages "Section" "episodios").ByDate.Reverse }}
+    <a href="{{ .Permalink }}"
+       style="display:block;padding:0.85rem 0.5rem;border-radius:8px;text-decoration:none;color:inherit;margin-bottom:0.25rem;"
+       onmouseover="this.style.background='rgba(255,255,255,0.06)'"
+       onmouseout="this.style.background='transparent'">
+      <p style="margin:0;font-weight:600;font-size:0.95rem;color:#c9a96e;">{{ .Title }}</p>
+      {{- with .Description }}
+      <p style="margin:0.25rem 0 0;opacity:0.7;font-size:0.85rem;line-height:1.4;">{{ . }}</p>
+      {{- end }}
+    </a>
+    {{- end }}
+  </div>
+
+</div>
+
+{{- end }}
