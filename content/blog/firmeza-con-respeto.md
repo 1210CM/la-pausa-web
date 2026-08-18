@@ -9,12 +9,12 @@ author: "Claudio"
 ShowReadingTime: true
 ShowBreadCrumbs: true
 cover:
-  image: /images/e05-blog-cover.png
+  image: /images/e05-blog-firmeza.png
   alt: "Firmeza con respeto — La Pausa"
   relative: false
 ---
 
-![Firmeza con respeto](/images/e05-blog-cover.png)
+![Firmeza con respeto](/images/e05-blog-firmeza.png)
 
 Muchos confunden personalidad con volumen. Creen que quien tiene carácter es el que grita más alto, el que impone su opinión sin escuchar. Pero la verdad es otra: **la personalidad se demuestra con hechos, no con decibelios**. Es la coherencia entre lo que pensás y cómo vivís. Nada más, nada menos.
 
@@ -35,8 +35,6 @@ No es lo mismo *rebelarse* que *revelarse*. El rebelde grita, descalifica, busca
 Y aquí viene lo interesante: **una sola persona firme y tranquila puede romper la ilusión de unanimidad de todo un grupo**. Los experimentos clásicos de conformidad de Solomon Asch demuestran que, cuando alguien responde con seguridad pero sin agresividad, los demás empiezan a dudar de su propia postura. La firmeza no solo te sostiene a vos: **le da permiso a los demás para cuestionar el error colectivo**.
 
 Pero hay una pregunta clave que tenés que hacerte antes de actuar: *¿mi postura busca alimentar mi orgullo o defender lo que en verdad es correcto?*
-
-![Cuándo pararse firme y cómo hacerlo](/images/e05-blog-firmeza.png)
 
 ---
 

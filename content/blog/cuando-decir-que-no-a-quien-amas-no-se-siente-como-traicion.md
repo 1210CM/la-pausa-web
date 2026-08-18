@@ -9,12 +9,12 @@ author: "Claudio"
 ShowReadingTime: true
 ShowBreadCrumbs: true
 cover:
-  image: /images/e05-blog-cover.png
+  image: /images/e05-blog-libreto.png
   alt: "Cómo poner límites sin culpa — La Pausa"
   relative: false
 ---
 
-![Cómo poner límites sin culpa](/images/e05-blog-cover.png)
+![Cómo poner límites sin culpa](/images/e05-blog-libreto.png)
 
 Hay una presión que duele más que el rechazo de un extraño: la de quienes te quieren. La familia que insiste con que "es por tu bien", los amigos que repiten *"todos lo hacen así"*, la pareja que te pide que no "te compliques la vida". En esos momentos, decir que no se siente como una traición.
 
@@ -25,8 +25,6 @@ Hay una presión que duele más que el rechazo de un extraño: la de quienes te 
 La expectativa ajena suele llegar disfrazada de cariño o consejo. *"Si todos lo están haciendo así, che, es lo normal. Aceptalo, no lo pienses tanto"*. Y es tentador ceder. Porque decirle que no a un ser querido **se siente como romper un pacto invisible**.
 
 Pero fíjate en esto: complacer a tu entorno puede comprarte paz en la sobremesa de un domingo. Pero te deja un vacío que ninguna aprobación ajena llena.
-
-![El libreto que otros escriben para vos](/images/e05-blog-libreto.png)
 
 ---
 

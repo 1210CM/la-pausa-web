@@ -9,12 +9,12 @@ author: "Claudio"
 ShowReadingTime: true
 ShowBreadCrumbs: true
 cover:
-  image: /images/e05-blog-cover.png
+  image: /images/e05-blog-informe-equipe.png
   alt: "Rebeldía o rebelarte: la diferencia que cambia todo — La Pausa"
   relative: false
 ---
 
-![Rebeldía o rebelarte: la diferencia que cambia todo](/images/e05-blog-cover.png)
+![Rebeldía o rebelarte: la diferencia que cambia todo](/images/e05-blog-informe-equipe.png)
 
 Desde chicos nos enseñan que llevar la contraria es de mala educación. Que demuestra soberbia o, en el mejor de los casos, ganas de llamar la atención. El mensaje es claro: **evitá el lío, busqué el consenso, no hagás olas**. Pero hay una grieta en esa lógica. Porque no es lo mismo ser rebelde que rebelarse.
 
@@ -31,8 +31,6 @@ Imaginate esto: estás en un equipo preparando un informe clave para inversores.
 La presión del grupo es inmensa. Todos te miran. Alguien podría acusarte de saboteo o de exagerar. Pero si elegís bien tus palabras y explicás el problema con claridad, **no estás desafiando a la autoridad: estás defendiendo la verdad**. Es lo que algunos especialistas llaman [*un desafío basado en principios*](https://hbr.org/2026/02/skilled-leaders-know-how-to-practice-strategic-defiance): pararte firme no por capricho, sino por convicción.
 
 Y aquí está el giro: **esta actitud no solo te sostiene a vos**. Le da permiso a los demás para dudar. Porque, ¿cuántos errores gigantes en empresas o proyectos se habrían evitado si una sola persona se hubiera animado a decir en voz alta lo que todos sospechaban en silencio?
-
-![El informe que nadie quiere corregir](/images/e05-blog-informe-equipe.png)
 
 ---
 

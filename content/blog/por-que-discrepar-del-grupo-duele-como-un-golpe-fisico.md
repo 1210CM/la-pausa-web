@@ -9,12 +9,12 @@ author: "Claudio"
 ShowReadingTime: true
 ShowBreadCrumbs: true
 cover:
-  image: /images/e05-blog-cover.png
+  image: /images/e05-blog-asch.png
   alt: "Discrepar del grupo duele como un golpe físico — La Pausa"
   relative: false
 ---
 
-![Discrepar del grupo duele como un golpe físico](/images/e05-blog-cover.png)
+![Discrepar del grupo duele como un golpe físico](/images/e05-blog-asch.png)
 
 Imaginate esto: estás en una reunión de trabajo, un almuerzo familiar o un chat grupal. Todos asienten, sonríen o dan *like* a una idea que, para vos, tiene un error garrafal. Sabés que va en contra de lo justo, de lo lógico, de lo que realmente creés. Pero en el momento, sentís un nudo en el estómago y una fuerza invisible que te cierra la boca.
 
@@ -27,8 +27,6 @@ Imaginate esto: estás en una reunión de trabajo, un almuerzo familiar o un cha
 En los años 50, el psicólogo Solomon Asch demostró algo perturbador: cuando una persona se enfrenta a un grupo unido en una opinión errónea, **el 75% cede y se suma a la mayoría**, aunque sepa que está equivocada. Pero hay más: [estudios posteriores](https://doi.org/10.1126/science.1089134) descubrieron que, al discrepar, el cerebro activa las mismas zonas que procesan el **dolor físico**.
 
 O sea: **decir que no cuando todos dicen que sí duele como un golpe en el pecho.** Y quedarse callado es la respuesta instintiva para evitar el rechazo, el aislamiento, el peligro de quedar fuera.
-
-![El cerebro procesa el desacuerdo como dolor físico](/images/e05-blog-asch.png)
 
 No es exagerado. En un mundo hiperconectado, donde la aceptación social parece sinónimo de supervivencia, el miedo a quedar afuera es una carga pesada. Pero hay un detalle: **encajar a costa de callar tu criterio tiene un precio.** Y ese precio lo pagás vos solo: frustración, inseguridad, la factura de haber traicionado lo que realmente pensás.
 
