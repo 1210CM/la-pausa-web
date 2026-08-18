@@ -1,7 +1,7 @@
 ---
 title: "El test del anonimato y el filtro de responsabilidad: cómo decidir sin presión de grupo"
 description: "Dos preguntas simples para saber si una decisión es tuya o del grupo. Herramienta concreta para jóvenes que quieren tomar las riendas de su vida."
-date: 2026-08-23
+date: 2026-08-18
 draft: false
 tags: ["jóvenes toma de decisiones", "presión de grupo", "test del anonimato", "filtro de responsabilidad"]
 categories: ["Temporada 1"]

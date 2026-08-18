@@ -1,7 +1,7 @@
 ---
 title: "El grupo de chat que espera tu respuesta: cómo no dejarse influenciar"
 description: "La presión de grupo ya no se apaga al salir de casa. Está en tu bolsillo, las 24 horas. Aprendé a reconocer cuándo una decisión es tuya o del grupo."
-date: 2026-08-19
+date: 2026-08-18
 draft: false
 tags: ["cómo no dejarse influenciar", "presión de grupo", "decisiones bajo presión", "influencia social"]
 categories: ["Temporada 1"]

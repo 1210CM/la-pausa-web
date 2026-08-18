@@ -1,7 +1,7 @@
 ---
 title: "Rebelarte tampoco te hace libre"
 description: "Creer que ser libre es hacer lo opuesto a lo que piden tus padres o la autoridad es otra forma de no decidir por vos mismo — solo cambiaste de amo."
-date: 2026-08-21
+date: 2026-08-18
 draft: false
 tags: ["rebeldía no es libertad", "presión de grupo", "toma de decisiones jóvenes"]
 categories: ["Temporada 1"]
