@@ -16,3 +16,20 @@
         });
     })();
 </script>
+
+<script>
+    (function() {
+        var toggle = document.getElementById("theme-toggle-home");
+        if (!toggle) return;
+        toggle.addEventListener("click", function() {
+            var html = document.querySelector("html");
+            if (html.dataset.theme === "dark") {
+                html.dataset.theme = "light";
+                localStorage.setItem("pref-theme", "light");
+            } else {
+                html.dataset.theme = "dark";
+                localStorage.setItem("pref-theme", "dark");
+            }
+        });
+    })();
+</script>

@@ -19,6 +19,9 @@ paginate = 10
 
   images = ["/images/banner.jpeg"]
 
+  [params.label]
+    text = "La Pausa"
+
   [params.profileMode]
     enabled = true
     title = "La Pausa"
