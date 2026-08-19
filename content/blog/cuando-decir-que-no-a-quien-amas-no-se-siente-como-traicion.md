@@ -1,7 +1,7 @@
 ---
 title: "Cuando decir que no a quien amás no se siente como traición"
 description: "La presión de la familia, los amigos o la pareja disfrazada de cariño. Cómo poner límites sin culpa y por qué complacer al entorno deja un vacío que ninguna aprobación ajena llena."
-date: 2026-08-18
+date: 2026-08-18T20:47:00-03:00
 draft: false
 tags: ["cómo poner límites sin culpa", "presión familiar", "expectativas ajenas", "autenticidad", "decisiones difíciles"]
 categories: ["Temporada 1"]

@@ -1,7 +1,7 @@
 ---
 title: "Por qué discrepar del grupo duele como un golpe físico"
 description: "La ciencia explica por qué el experimento Asch revela que seguimos a la mayoría: tu cerebro procesa el desacuerdo como dolor físico. ¿Vale la pena callar para encajar?"
-date: 2026-08-18
+date: 2026-08-18T20:49:00-03:00
 draft: false
 tags: ["experimento Asch", "presión de grupo", "por qué seguimos a la mayoría", "dolor físico por discrepar", "conformidad social"]
 categories: ["Temporada 1"]

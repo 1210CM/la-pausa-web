@@ -1,7 +1,7 @@
 ---
 title: "Rebeldía o rebelarte: la diferencia que cambia todo"
 description: "No es lo mismo llevar la contra por sistema que alzar la voz por lo justo. La clave está en el motivo, no en el volumen."
-date: 2026-08-18
+date: 2026-08-18T20:48:00-03:00
 draft: false
 tags: ["diferencia entre rebeldía y rebelarse", "desafío basado en principios", "valentía social", "presión de grupo", "toma de decisiones"]
 categories: ["Temporada 1"]

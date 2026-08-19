@@ -1,7 +1,7 @@
 ---
 title: "Firmeza con respeto: cómo defender lo que pensás sin pelear"
 description: "La personalidad no es gritar más fuerte, sino tener claros tus límites. Cuándo ceder y cuándo no negociar, sin imponerte."
-date: 2026-08-18
+date: 2026-08-18T20:46:00-03:00
 draft: false
 tags: ["firmeza con respeto", "defender tus ideas", "personalidad auténtica", "límites sanos", "presión de grupo"]
 categories: ["Temporada 1"]

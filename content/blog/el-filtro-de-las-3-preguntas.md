@@ -1,7 +1,7 @@
 ---
 title: "El filtro de las 3 preguntas para decidir distinto a todos"
 description: "La ciencia demuestra que un solo aliado puede romper la presión del grupo. Aprendé a usar este método simple y gratuito antes de ceder."
-date: 2026-08-18
+date: 2026-08-18T20:45:00-03:00
 draft: false
 tags: ["cómo decidir distinto a todos", "presión de grupo", "herramienta de decisión", "aliado en decisiones", "filtro de 3 preguntas"]
 categories: ["Temporada 1"]

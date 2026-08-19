@@ -1,7 +1,7 @@
 ---
 title: "El Triángulo de la Influencia: el experimento Asch y por qué seguimos a la mayoría"
 description: "Tres fuerzas compiten cuando decidís influenciado por otros. ¿Estás eligiendo por vos o por el grupo?"
-date: 2026-08-18
+date: 2026-08-18T19:50:00-03:00
 draft: false
 tags: ["experimento Asch", "por qué seguimos a la mayoría", "presión de grupo", "triángulo de la influencia", "toma de decisiones jóvenes"]
 categories: ["Temporada 1"]
