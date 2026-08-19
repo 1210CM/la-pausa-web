@@ -7,6 +7,7 @@ layout: "single"
 tags: ["miedo a tomar una decisión", "miedo al fracaso", "amígdala y decisiones", "corteza prefrontal estrés", "dicotomía de control estoicismo"]
 categories: ["Temporada 1"]
 listImage: /images/e01t02-cover-square.jpg
+youtube: "9QxzncrCeV0"
 cover:
   image: /images/e01t02-cover-square.jpg
   alt: "Tu cerebro exagera el miedo a fracasar — La Pausa"

@@ -12,6 +12,7 @@ cover:
   image: /images/e04-triangulo.png
   alt: "El Triángulo de la Influencia — La Pausa"
   relative: false
+listImage: /images/e04-triangulo-thumb.jpg
 ---
 
 ![El Triángulo de la Influencia](/images/e04-triangulo.png)

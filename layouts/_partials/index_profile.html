@@ -31,7 +31,11 @@
 </div>
 
 {{- with .Content }}
-<div class="post-content home-content">
+<div class="post-content home-content home-content--intro">
     {{- . | safeHTML }}
 </div>
 {{- end }}
+
+<div class="post-content home-content">
+    {{- partial "home_curated.html" . }}
+</div>

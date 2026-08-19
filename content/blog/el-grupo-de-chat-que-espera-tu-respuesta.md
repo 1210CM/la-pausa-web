@@ -12,6 +12,7 @@ cover:
   image: /images/e04-control.png
   alt: "El grupo de chat que espera tu respuesta"
   relative: false
+listImage: /images/e04-control-thumb.jpg
 ---
 
 ![El grupo de chat que espera tu respuesta](/images/e04-control.png)

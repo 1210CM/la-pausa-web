@@ -1,0 +1,108 @@
+{{- /*
+  Secciones curadas del home. Toda la data (título, imagen, descripción, link,
+  video) sale del frontmatter real de cada página — data/home.yaml solo dice
+  QUÉ slugs mostrar. Ver home-web-actualizar.md para el proceso semanal.
+*/}}
+
+{{- $data := hugo.Data.home }}
+{{- $destacado := site.GetPage (printf "/episodios/%s" $data.episodio_destacado) }}
+
+{{- with $destacado }}
+<div class="home-section">
+  <p class="home-label">Episodio destacado — esta semana</p>
+  <a href="{{ .Permalink }}" class="destacado-card">
+    {{- with .Params.listImage }}
+    <img class="destacado-img" src="{{ . }}" alt="{{ $destacado.Title }} — La Pausa" />
+    {{- end }}
+    <div class="destacado-text">
+      <h2>{{ .Title }}</h2>
+      <p>{{ .Params.description }}</p>
+      <span class="cta">Escuchar episodio →</span>
+    </div>
+  </a>
+</div>
+{{- end }}
+
+{{- with $data.posts_destacados }}
+<div class="home-section">
+  <p class="home-label">Artículos de esta semana</p>
+  <div class="posts-grid">
+    {{- range . }}
+    {{- $post := site.GetPage (printf "/blog/%s" .) }}
+    {{- with $post }}
+    <a class="post-card" href="{{ .Permalink }}">
+      {{- with .Params.listImage }}
+      <img src="{{ . }}" alt="{{ $post.Title }}" />
+      {{- end }}
+      <h3>{{ .Title }}</h3>
+      <p>{{ .Params.description }}</p>
+      <span class="cta-small">Leer más →</span>
+    </a>
+    {{- end }}
+    {{- end }}
+  </div>
+</div>
+{{- end }}
+
+{{- with $destacado }}
+{{- with .Params.youtube }}
+<div class="home-section">
+  <p class="home-label">Video del episodio</p>
+  <div class="home-video">
+    <iframe src="https://www.youtube.com/embed/{{ . }}" loading="lazy"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+  <a href="{{ $destacado.Permalink }}">Ver la página completa del episodio →</a>
+</div>
+{{- end }}
+{{- end }}
+
+<hr style="opacity:0.2; margin: 2.5rem 0;" />
+
+{{- with $data.episodios_anteriores }}
+<div class="home-section">
+  <p class="home-label">Episodios anteriores</p>
+  <ul class="link-list">
+    {{- range . }}
+    {{- with site.GetPage (printf "/episodios/%s" .) }}
+    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{- end }}
+    {{- end }}
+  </ul>
+</div>
+{{- end }}
+
+{{- with $data.posts_anteriores }}
+<div class="home-section">
+  <p class="home-label">Artículos anteriores</p>
+  <ul class="link-list">
+    {{- range . }}
+    {{- with site.GetPage (printf "/blog/%s" .) }}
+    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{- end }}
+    {{- end }}
+  </ul>
+</div>
+{{- end }}
+
+{{- with $data.episodios_anteriores }}
+<div class="home-section">
+  <p class="home-label">Videos de YouTube anteriores</p>
+  <ul class="link-list">
+    {{- range . }}
+    {{- $ep := site.GetPage (printf "/episodios/%s" .) }}
+    {{- with $ep }}
+    {{- with .Params.youtube }}
+    <li><a href="https://www.youtube.com/watch?v={{ . }}" target="_blank" rel="noopener">{{ $ep.Title }}</a></li>
+    {{- end }}
+    {{- end }}
+    {{- end }}
+  </ul>
+</div>
+{{- end }}
+
+<hr style="opacity:0.2; margin: 2.5rem 0;" />
+
+<p style="font-size:0.9rem;">
+  <a href="/episodios/">Ver todos los episodios →</a> &nbsp;·&nbsp; <a href="/blog/">Blog →</a>
+</p>

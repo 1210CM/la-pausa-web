@@ -12,6 +12,7 @@ cover:
   image: /images/e04-volante-vida.jpg
   alt: "Rebelarte tampoco te hace libre — La Pausa"
   relative: false
+listImage: /images/e04-volante-vida-thumb.jpg
 ---
 
 ![Rebelarte tampoco te hace libre](/images/e04-volante-vida.jpg)

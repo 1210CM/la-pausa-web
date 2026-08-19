@@ -7,6 +7,7 @@ layout: "single"
 tags: ["presión de grupo", "experimento Asch", "conformidad social", "rebeldía vs rebelarse", "límites sanos", "jóvenes toma de decisiones", "valentía social", "podlapausa"]
 categories: ["Temporada 1"]
 listImage: /images/e05-cover-square.jpg
+youtube: "qLdkVvj3Oss"
 cover:
   image: /images/e05-cover.jpg
   alt: "Cómo decidir distinto a todos sin quedar solo — La Pausa #5"

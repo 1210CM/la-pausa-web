@@ -12,6 +12,7 @@ cover:
   image: /images/e04-responsabilidad.png
   alt: "El test del anonimato y el filtro de responsabilidad"
   relative: false
+listImage: /images/e04-responsabilidad-thumb.jpg
 ---
 
 ![El test del anonimato y el filtro de responsabilidad](/images/e04-responsabilidad.png)

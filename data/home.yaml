@@ -1,0 +1,26 @@
+# Configuración semanal del home — la ÚNICA que hay que tocar cada semana.
+# Todo lo demás (título, imagen, descripción, link, video) sale solo del
+# frontmatter real de cada episodio/post — no se copia nada a mano acá.
+# Instrucciones completas: la-pausa-configuracion-ia/claude/habilidades/home-web-actualizar.md
+
+# Slug del episodio destacado esta semana (carpeta content/episodios/<slug>.md, sin extensión)
+episodio_destacado: "e04-decidir-bajo-influencia"
+
+# Slugs de los posts que acompañan la promoción de ESTE episodio (content/blog/<slug>.md)
+posts_destacados:
+  - "el-grupo-de-chat-que-espera-tu-respuesta"
+  - "el-triangulo-de-la-influencia"
+  - "rebelarte-tampoco-te-hace-libre"
+  - "el-test-del-anonimato-y-el-filtro-de-responsabilidad"
+
+# Episodios anteriores a mostrar en "Episodios anteriores" (más reciente primero)
+episodios_anteriores:
+  - "e01t01-decidir-bajo-presion"
+  - "e01t02-decidir-cuando-tienes-miedo"
+  - "e01t03-paralisis-por-analisis"
+
+# Posts anteriores a mostrar en "Artículos anteriores" (más reciente primero)
+posts_anteriores:
+  - "e01-decidir-bajo-presion"
+  - "e01t02-decidir-cuando-tienes-miedo"
+  - "e01t03-paralisis-por-analisis"
