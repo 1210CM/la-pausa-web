@@ -7,6 +7,10 @@ layout: "single"
 tags: ["decisiones bajo presión", "urgencia", "ventanas de reset", "psicología cognitiva"]
 categories: ["Temporada 1"]
 listImage: /images/e01t01-cover-square.jpg
+cover:
+  image: /images/e01t01-cover.jpg
+  alt: "Decidir bajo presión: el veneno de la urgencia — La Pausa"
+  relative: false
 ShowReadingTime: false
 ShowBreadCrumbs: true
 hidemeta: true

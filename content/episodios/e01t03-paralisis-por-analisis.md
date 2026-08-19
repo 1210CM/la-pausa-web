@@ -7,6 +7,10 @@ layout: "single"
 tags: ["parálisis por análisis", "toma de decisiones", "Daniel Kahneman", "análisis pre-mortem", "Gary Klein"]
 categories: ["Temporada 1"]
 listImage: /images/e01t03-cover-square.jpg
+cover:
+  image: /images/e01t03-cover-square.jpg
+  alt: "Ricos en datos, pobres en decisión — La Pausa"
+  relative: false
 ShowReadingTime: false
 ShowBreadCrumbs: true
 hidemeta: true

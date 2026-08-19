@@ -7,6 +7,10 @@ layout: "single"
 tags: ["presión de grupo", "presión social jóvenes", "experimento Asch", "conformidad social", "rebeldía", "toma de decisiones jóvenes", "consejos para padres", "psicología de las decisiones"]
 categories: ["Temporada 1"]
 listImage: /images/e04-cover-square.jpg
+cover:
+  image: /images/e04-cover.jpg
+  alt: "Jóvenes y presión de grupo: ¿quién decide, vos o ellos? — La Pausa"
+  relative: false
 ShowReadingTime: false
 ShowBreadCrumbs: true
 hidemeta: true
