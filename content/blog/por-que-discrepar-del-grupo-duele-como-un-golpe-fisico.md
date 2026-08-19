@@ -40,7 +40,7 @@ Entonces, la próxima vez que sientas ese nudo en el estómago, preguntate: *¿E
 
 ---
 
-Si esto te resonó, el [episodio 5 de *La Pausa*](https://podlapausa.com/proximo-episodio/) sigue tirando del hilo: cómo ese mismo mecanismo se repite en el trabajo, la familia o el grupo de amigos, y qué herramientas tenés para no dejar que otros decidan por vos.
+Si esto te resonó, el [episodio 5 de *La Pausa*](https://podlapausa.com/episodios/e05-decidir-lo-contrario/) sigue tirando del hilo: cómo ese mismo mecanismo se repite en el trabajo, la familia o el grupo de amigos, y qué herramientas tenés para no dejar que otros decidan por vos.
 
 Suscribite en [podlapausa.com](https://podlapausa.com) y recibí el Kit de Decisiones gratis en tu correo.
 

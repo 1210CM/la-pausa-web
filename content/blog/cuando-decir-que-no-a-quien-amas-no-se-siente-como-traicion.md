@@ -42,7 +42,7 @@ Elegir el camino que otros esperan de vos puede evitar conflictos a corto plazo.
 
 ---
 
-*El resto de esta conversación —incluyendo cómo transformar esa culpa en convicción— lo desarrollo en el [episodio 5 de La Pausa](https://podlapausa.com/proximo-episodio/).*
+*El resto de esta conversación —incluyendo cómo transformar esa culpa en convicción— lo desarrollo en el [episodio 5 de La Pausa](https://podlapausa.com/episodios/e05-decidir-lo-contrario/).*
 
 Si esto te resonó, suscribite en [podlapausa.com](https://podlapausa.com) para recibir reflexiones como esta en tu correo.
 

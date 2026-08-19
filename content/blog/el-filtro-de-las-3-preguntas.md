@@ -47,7 +47,7 @@ Y hay un dato clave: **si creés que tus decisiones solo te afectan a vos, está
 
 ¿Qué sentimiento te motiva más a la hora de decidir: el orgullo, la vergüenza o la aprobación de los demás? **La respuesta define quién conduce tu vida.**
 
-Esto es solo el punto de partida — en el [episodio 5 de *La Pausa*](https://podlapausa.com/proximo-episodio/) cuento cómo aplico yo estas preguntas en la práctica.
+Esto es solo el punto de partida — en el [episodio 5 de *La Pausa*](https://podlapausa.com/episodios/e05-decidir-lo-contrario/) cuento cómo aplico yo estas preguntas en la práctica.
 
 Suscribite en [podlapausa.com](https://podlapausa.com) y recibí el Kit de Decisiones gratis en tu correo.
 

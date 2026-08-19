@@ -44,7 +44,7 @@ Si hoy tuvieras que elegir entre callarte para evitar el conflicto o hablar con 
 
 ---
 
-El desarrollo completo de este concepto, con ejemplos concretos, está en el [episodio 5 de *La Pausa*](https://podlapausa.com/proximo-episodio/).
+El desarrollo completo de este concepto, con ejemplos concretos, está en el [episodio 5 de *La Pausa*](https://podlapausa.com/episodios/e05-decidir-lo-contrario/).
 
 Suscribite en [podlapausa.com](https://podlapausa.com) y recibí el Kit de Decisiones gratis en tu correo.
 

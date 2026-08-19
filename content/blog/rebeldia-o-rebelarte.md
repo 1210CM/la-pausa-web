@@ -36,7 +36,7 @@ Y aquí está el giro: **esta actitud no solo te sostiene a vos**. Le da permiso
 
 ¿Y vos? ¿Te animarías a ser esa voz disidente la próxima vez que veas que el grupo se equivoca, aunque eso signifique ir contra la corriente?
 
-El resto de este *desafío basado en principios* lo desarrollo en el [episodio 5 de *La Pausa*](https://podlapausa.com/proximo-episodio/).
+El resto de este *desafío basado en principios* lo desarrollo en el [episodio 5 de *La Pausa*](https://podlapausa.com/episodios/e05-decidir-lo-contrario/).
 
 Suscribite en [podlapausa.com](https://podlapausa.com) y recibí el Kit de Decisiones gratis en tu correo.
 
