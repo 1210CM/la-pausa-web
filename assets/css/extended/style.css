@@ -172,3 +172,173 @@ h1, h2, h3, h4, h5, h6,
 :root:not([data-theme="dark"]) .footer a:hover {
     color: #1a1a2e;
 }
+
+/* Profile compacto (home) — sin foto/título repetidos, solo redes + botón */
+.profile_inner--compact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.75rem;
+}
+
+/* Home — secciones curadas */
+.home-content {
+    margin-top: 1.5rem;
+}
+
+.home-section {
+    margin: 2.5rem 0;
+}
+
+.home-label {
+    text-transform: uppercase;
+    font-size: 0.75rem;
+    letter-spacing: 0.1em;
+    opacity: 0.6;
+    margin-bottom: 0.9rem;
+}
+
+/* Destacado */
+.destacado-card {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0;
+    text-decoration: none;
+    color: inherit;
+    background: var(--entry);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    overflow: hidden;
+    transition: border-color 0.2s ease;
+}
+
+.destacado-card:hover {
+    border-color: #c9a96e;
+}
+
+.destacado-img {
+    flex: 0 1 340px;
+    width: 100%;
+    max-width: 340px;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    display: block;
+    margin: 0;
+}
+
+.destacado-text {
+    flex: 1 1 320px;
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.destacado-text h2 {
+    margin: 0 0 0.75rem 0;
+    font-size: 1.4rem;
+    color: #c9a96e;
+}
+
+.destacado-text p {
+    margin: 0 0 1rem 0;
+    opacity: 0.85;
+    line-height: 1.6;
+}
+
+.destacado-text .cta {
+    font-weight: 500;
+    color: #7b9cbc;
+}
+
+/* Grid de posts */
+.posts-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+    gap: 1.25rem;
+}
+
+.post-card {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    background: var(--entry);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    overflow: hidden;
+    transition: border-color 0.2s ease;
+}
+
+.post-card:hover {
+    border-color: #c9a96e;
+}
+
+.post-card img {
+    width: 100%;
+    height: 140px;
+    object-fit: cover;
+    display: block;
+    margin: 0;
+}
+
+.post-card h3 {
+    margin: 0.85rem 0.9rem 0.4rem;
+    font-size: 1rem;
+    color: #c9a96e;
+}
+
+.post-card p {
+    margin: 0 0.9rem 0.6rem;
+    font-size: 0.88rem;
+    opacity: 0.8;
+    line-height: 1.5;
+}
+
+.post-card .cta-small {
+    display: block;
+    margin: 0 0.9rem 0.9rem;
+    font-size: 0.85rem;
+    color: #7b9cbc;
+    font-weight: 500;
+}
+
+/* Video embebido del home */
+.home-video {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    border-radius: 8px;
+    margin-bottom: 0.9rem;
+}
+
+.home-video iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+
+/* Listas de enlaces (episodios/posts/videos anteriores) */
+.link-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+}
+
+.link-list li a {
+    display: block;
+    padding: 0.6rem 0;
+    border-bottom: 1px solid var(--border);
+    text-decoration: none;
+    color: var(--primary);
+}
+
+.link-list li a:hover {
+    color: #c9a96e;
+}
