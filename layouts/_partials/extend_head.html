@@ -1,4 +1,7 @@
 {{- /* Site-level head extension: podcast-specific schema.org markup */ -}}
+{{- if .IsHome }}
+<meta name="facebook-domain-verification" content="2aeavib610mjztk0vo8shzcrx66juc" />
+{{- end }}
 {{- if eq .Section "episodios" }}
 {{- if .IsPage }}
 <script type="application/ld+json">
