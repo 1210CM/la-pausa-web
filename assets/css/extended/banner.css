@@ -3,6 +3,11 @@ body:has(.home-masthead) header.header {
     display: none;
 }
 
+/* Fondo explícito del header en todas las páginas — mismo tono que el masthead del home */
+.header {
+    background-color: #1a1a2e;
+}
+
 .home-masthead {
     width: 100vw;
     position: relative;
@@ -59,10 +64,12 @@ body:has(.home-masthead) header.header {
     filter: drop-shadow(0 1px 3px rgba(0, 0, 0, 0.6));
 }
 
-/* Menú debajo de la imagen */
+/* Menú debajo de la imagen — una sola línea, mismo fondo oscuro que la imagen */
 .home-masthead-nav {
-    padding: 1rem 1.25rem;
+    background-color: #1a1a2e;
+    padding: 1rem 0.75rem;
     border-bottom: 1px solid var(--border);
+    overflow-x: auto;
 }
 
 .home-masthead-nav ul {
@@ -70,14 +77,17 @@ body:has(.home-masthead) header.header {
     margin: 0;
     padding: 0;
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
+    white-space: nowrap;
     justify-content: center;
-    gap: 0.5rem 1.5rem;
+    width: max-content;
+    min-width: 100%;
+    gap: 0.9rem;
 }
 
 .home-masthead-nav a {
     text-decoration: none;
-    font-size: 0.95rem;
+    font-size: 0.85rem;
 }
 
 :root[data-theme="dark"] .home-masthead-nav a {
