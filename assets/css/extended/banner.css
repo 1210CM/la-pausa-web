@@ -129,8 +129,3 @@ body:has(.home-masthead) header.header {
     white-space: nowrap;
     border: 0;
 }
-
-.profile {
-    min-height: unset !important;
-    padding: 1rem 0 2rem 0 !important;
-}

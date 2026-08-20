@@ -342,3 +342,45 @@ h1, h2, h3, h4, h5, h6,
 .link-list li a:hover {
     color: #c9a96e;
 }
+
+/* CTA de suscripción — ofrece el Kit de Decisiones */
+.cta-kit {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1.25rem;
+    background: linear-gradient(135deg, #16213e, #1a1a2e);
+    border: 1px solid #c9a96e;
+    border-radius: 10px;
+    padding: 1.5rem;
+}
+
+.cta-kit-text h3 {
+    margin: 0 0 0.5rem 0;
+    font-size: 1.2rem;
+    color: #c9a96e;
+}
+
+.cta-kit-text p {
+    margin: 0;
+    opacity: 0.85;
+    font-size: 0.92rem;
+    line-height: 1.6;
+    max-width: 46ch;
+}
+
+.cta-kit-button {
+    flex-shrink: 0;
+    background: #c9a96e;
+    color: #1a1a2e;
+    font-weight: 700;
+    text-decoration: none;
+    padding: 0.75rem 1.5rem;
+    border-radius: 6px;
+    white-space: nowrap;
+}
+
+.cta-kit-button:hover {
+    background: #e8c88a;
+}
