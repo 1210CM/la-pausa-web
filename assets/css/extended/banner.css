@@ -23,6 +23,18 @@ body:has(.home-masthead) header.header {
     display: block;
 }
 
+/* Funde el borde inferior de la foto con el fondo casi negro del menú */
+.home-masthead::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 70px;
+    background: linear-gradient(to bottom, transparent, #0a0a0a);
+    pointer-events: none;
+}
+
 .home-masthead-overlay {
     position: absolute;
     top: 0;
@@ -64,9 +76,16 @@ body:has(.home-masthead) header.header {
     filter: drop-shadow(0 1px 3px rgba(0, 0, 0, 0.6));
 }
 
-/* Menú debajo de la imagen — una sola línea, mismo fondo oscuro que la imagen */
+/* Menú debajo de la imagen — una sola línea, mismo fondo oscuro que la imagen.
+   Mismo truco de sangrado completo (100vw) que .home-masthead, si no la barra
+   queda encogida al ancho normal del contenido mientras la imagen va de borde
+   a borde. */
 .home-masthead-nav {
-    background-color: #1a1a2e;
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    margin-left: -50vw;
+    background-color: #0a0a0a;
     padding: 1rem 0.75rem;
     border-bottom: 1px solid var(--border);
     overflow-x: auto;
