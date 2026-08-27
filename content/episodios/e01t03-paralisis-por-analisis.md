@@ -27,6 +27,8 @@ hidemeta: true
 <iframe src="https://player.rss.com/la-pausa/3054670?theme=color&v=2" width="100%" height="202px" title="¿Por qué no puedo decidir? | La Pausa #3" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen scrolling="no"><a href="https://rss.com/podcasts/la-pausa/3054670/">¿Por qué no puedo decidir? | La Pausa #3 | RSS.com</a></iframe>
 {{< /rawhtml >}}
 
+{{< escuchar-en >}}
+
 Kodak inventó la cámara digital... y la escondió 20 años. Por qué acumular más datos genera ansiedad en lugar de certeza, qué le pasa al cerebro cuando colapsa el pensamiento analítico, y dos herramientas simples para romper la parálisis por análisis: la intuición experta y el análisis pre-mortem.
 
 ---

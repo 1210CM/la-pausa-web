@@ -27,6 +27,8 @@ hidemeta: true
 <iframe src="https://player.rss.com/la-pausa/2946348?theme=color&v=2" width="100%" height="202px" title="Decidir bajo presión: el veneno de la urgencia | La Pausa #1" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen scrolling="no"><a href="https://rss.com/podcasts/la-pausa/2946348/">Decidir bajo presión: el veneno de la urgencia | La Pausa #1 | RSS.com</a></iframe>
 {{< /rawhtml >}}
 
+{{< escuchar-en >}}
+
 ¿Quién decide en tu cabeza cuando sentís que el tiempo se acaba? Descubrí por qué decidir bajo presión te paraliza y cómo aplicar las ventanas de reset.
 
 ---

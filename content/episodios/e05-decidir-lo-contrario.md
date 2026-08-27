@@ -27,6 +27,8 @@ hidemeta: true
 <iframe src="https://player.rss.com/la-pausa/3078544?theme=color&v=2" width="100%" height="202px" title="Cómo decidir distinto a todos sin quedar solo | La Pausa #5" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen scrolling="no"><a href="https://rss.com/podcasts/la-pausa/3078544/">Cómo decidir distinto a todos sin quedar solo | La Pausa #5 | RSS.com</a></iframe>
 {{< /rawhtml >}}
 
+{{< escuchar-en >}}
+
 ¿Tenés una certeza clara pero todos a tu alrededor esperan que hagas lo contrario? La ciencia dice que discrepar del grupo duele como un golpe físico. El experimento de Asch, la diferencia real entre rebeldía y rebelarse, y el filtro de las 3 preguntas antes de ceder — para sostener tu postura sin pelear.
 
 ---

@@ -27,6 +27,8 @@ hidemeta: true
 <iframe src="https://player.rss.com/la-pausa/3065947?theme=color&v=2" width="100%" height="202px" title="Jóvenes y presión de grupo: ¿quién decide, vos o ellos? | La Pausa #4" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen scrolling="no"><a href="https://rss.com/podcasts/la-pausa/3065947/">Jóvenes y presión de grupo: ¿quién decide, vos o ellos? | La Pausa #4 | RSS.com</a></iframe>
 {{< /rawhtml >}}
 
+{{< escuchar-en >}}
+
 La presión de grupo no termina al salir de casa: te sigue en el bolsillo, las 24 horas. El experimento de Asch, el Triángulo de la Influencia, por qué rebelarte tampoco te hace libre, y dos preguntas simples para saber si una decisión es tuya o del grupo.
 
 ---

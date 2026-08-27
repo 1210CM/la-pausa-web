@@ -52,6 +52,7 @@
     <iframe src="https://www.youtube.com/embed/{{ . }}" loading="lazy"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
+  {{ partial "escuchar-en.html" . }}
   <a href="{{ $destacado.Permalink }}">Ver la página completa del episodio →</a>
 </div>
 {{- end }}

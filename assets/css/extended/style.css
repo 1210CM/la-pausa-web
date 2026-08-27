@@ -388,3 +388,43 @@ h1, h2, h3, h4, h5, h6,
 .cta-kit-button:hover {
     background: #e8c88a;
 }
+
+/* Botones "Escuchá en" — Spotify/Apple/Amazon, junto al reproductor de RSS.com */
+.escuchar-en {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.6rem;
+    margin: 0.75rem 0 1.5rem 0;
+}
+
+.escuchar-en-label {
+    font-size: 0.9rem;
+    opacity: 0.75;
+    margin-right: 0.2rem;
+}
+
+.escuchar-en-btn {
+    display: inline-block;
+    text-decoration: none;
+    font-size: 0.88rem;
+    font-weight: 600;
+    padding: 0.45rem 0.9rem;
+    border-radius: 999px;
+    border: 1px solid #c9a96e;
+    white-space: nowrap;
+}
+
+:root[data-theme="dark"] .escuchar-en-btn,
+.escuchar-en-btn {
+    color: #c9a96e;
+}
+
+.escuchar-en-btn:hover {
+    background: #c9a96e;
+}
+
+:root[data-theme="dark"] .escuchar-en-btn:hover,
+.escuchar-en-btn:hover {
+    color: #1a1a2e;
+}

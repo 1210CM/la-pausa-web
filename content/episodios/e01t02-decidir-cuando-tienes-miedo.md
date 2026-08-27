@@ -27,6 +27,8 @@ hidemeta: true
 <iframe src="https://player.rss.com/la-pausa/3041104?theme=color&v=2" width="100%" height="202px" title="Tu cerebro exagera el miedo a fracasar | La Pausa #2" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen scrolling="no"><a href="https://rss.com/podcasts/la-pausa/3041104/">Tu cerebro exagera el miedo a fracasar | La Pausa #2 | RSS.com</a></iframe>
 {{< /rawhtml >}}
 
+{{< escuchar-en >}}
+
 ¿Tenés miedo de tomar una decisión importante? Tu cerebro magnifica seis veces más el miedo al fracaso que la posibilidad de tener éxito. Por qué la amígdala reacciona ante la incertidumbre como si fuera una amenaza mortal, y las dos preguntas estoicas que te devuelven el control racional.
 
 ---
