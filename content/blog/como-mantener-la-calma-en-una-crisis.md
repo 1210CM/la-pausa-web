@@ -9,10 +9,11 @@ episodio: "e06-decidir-en-crisis"
 author: "Claudio"
 ShowReadingTime: true
 ShowBreadCrumbs: true
-listImage: /images/e06-thumb-generic.jpg
+listImage: /images/e06-thumb-temporal-volante.jpg
 cover:
-  image: /images/e06-blog-cover.png
+  image: /images/e06-cover-temporal-volante.jpg
   alt: "Mantener la calma en una crisis — La Pausa"
+  caption: "Imagen generada por IA"
   relative: false
 ---
 
