@@ -8,6 +8,7 @@ categories: ["Temporada 1"]
 author: "Claudio"
 ShowReadingTime: true
 ShowBreadCrumbs: true
+listImage: /images/e06-thumb-elpais.jpg
 cover:
   image: /images/e06-blog-cover.png
   alt: "Cómo actuar en una crisis sin entrar en pánico — La Pausa"

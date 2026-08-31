@@ -4,23 +4,40 @@
 # Instrucciones completas: la-pausa-configuracion-ia/claude/habilidades/home-web-actualizar.md
 
 # Slug del episodio destacado esta semana (carpeta content/episodios/<slug>.md, sin extensión)
-episodio_destacado: "e04-decidir-bajo-influencia"
+episodio_destacado: "e06-decidir-en-crisis"
 
 # Slugs de los posts que acompañan la promoción de ESTE episodio (content/blog/<slug>.md)
 posts_destacados:
-  - "el-grupo-de-chat-que-espera-tu-respuesta"
-  - "el-triangulo-de-la-influencia"
-  - "rebelarte-tampoco-te-hace-libre"
-  - "el-test-del-anonimato-y-el-filtro-de-responsabilidad"
+  - "como-actuar-en-una-crisis-sin-panico"
+  - "secuestro-amigdalar-que-le-pasa-a-tu-cerebro-en-crisis"
+  - "como-mantener-la-calma-en-una-crisis"
+  - "los-criterios-se-forjan-en-la-calma"
+  - "las-dos-puertas-de-bezos"
 
 # Episodios anteriores a mostrar en "Episodios anteriores" (más reciente primero)
 episodios_anteriores:
+  - "e05-decidir-lo-contrario"
+  - "e04-decidir-bajo-influencia"
   - "e01t01-decidir-bajo-presion"
   - "e01t02-decidir-cuando-tienes-miedo"
   - "e01t03-paralisis-por-analisis"
 
 # Posts anteriores a mostrar en "Artículos anteriores" (más reciente primero)
+# Verificado 2026-08-30 contra seo.md de cada episodio (el home.yaml viejo tenía 2 posts de
+# E04 y 2 de E05 mezclados bajo "destacados de E04" — corregido acá).
 posts_anteriores:
+  # E05 — Cómo decidir distinto a todos sin quedar solo
+  - "por-que-discrepar-del-grupo-duele-como-un-golpe-fisico"
+  - "el-triangulo-de-la-influencia"
+  - "rebeldia-o-rebelarte"
+  - "firmeza-con-respeto"
+  - "el-filtro-de-las-3-preguntas"
+  # E04 — Jóvenes y presión de grupo
+  - "el-grupo-de-chat-que-espera-tu-respuesta"
+  - "el-test-del-anonimato-y-el-filtro-de-responsabilidad"
+  - "cuando-decir-que-no-a-quien-amas-no-se-siente-como-traicion"
+  - "rebelarte-tampoco-te-hace-libre"
+  # E01
   - "e01-decidir-bajo-presion"
   - "e01t02-decidir-cuando-tienes-miedo"
   - "e01t03-paralisis-por-analisis"

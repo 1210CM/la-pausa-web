@@ -8,6 +8,7 @@ categories: ["Temporada 1"]
 author: "Claudio"
 ShowReadingTime: true
 ShowBreadCrumbs: true
+listImage: /images/e06-thumb-generic.jpg
 cover:
   image: /images/e06-blog-cover.png
   alt: "Mantener la calma en una crisis — La Pausa"

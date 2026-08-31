@@ -8,6 +8,7 @@ categories: ["Temporada 1"]
 author: "Claudio"
 ShowReadingTime: true
 ShowBreadCrumbs: true
+listImage: /images/e06-thumb-banerjee.jpg
 cover:
   image: /images/e06-blog-cover.png
   alt: "Secuestro amigdalar en una crisis"

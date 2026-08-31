@@ -8,6 +8,7 @@ categories: ["Temporada 1"]
 author: "Claudio"
 ShowReadingTime: true
 ShowBreadCrumbs: true
+listImage: /images/e06-thumb-bezos.jpg
 cover:
   image: /images/e06-blog-cover.png
   alt: "Las dos puertas de Bezos — La Pausa"
