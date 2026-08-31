@@ -5,6 +5,7 @@ date: 2026-08-18T19:51:00-03:00
 draft: false
 tags: ["cómo no dejarse influenciar", "presión de grupo", "decisiones bajo presión", "influencia social"]
 categories: ["Temporada 1"]
+episodio: "e04-decidir-bajo-influencia"
 author: "Claudio"
 ShowReadingTime: true
 ShowBreadCrumbs: true

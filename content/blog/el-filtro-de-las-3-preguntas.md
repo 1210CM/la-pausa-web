@@ -5,6 +5,7 @@ date: 2026-08-18T20:45:00-03:00
 draft: false
 tags: ["cómo decidir distinto a todos", "presión de grupo", "herramienta de decisión", "aliado en decisiones", "filtro de 3 preguntas"]
 categories: ["Temporada 1"]
+episodio: "e05-decidir-lo-contrario"
 author: "Claudio"
 ShowReadingTime: true
 ShowBreadCrumbs: true

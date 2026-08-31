@@ -5,6 +5,7 @@ date: 2026-08-18T20:47:00-03:00
 draft: false
 tags: ["cómo poner límites sin culpa", "presión familiar", "expectativas ajenas", "autenticidad", "decisiones difíciles"]
 categories: ["Temporada 1"]
+episodio: "e04-decidir-bajo-influencia"
 author: "Claudio"
 ShowReadingTime: true
 ShowBreadCrumbs: true

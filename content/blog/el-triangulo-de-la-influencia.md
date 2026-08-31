@@ -5,6 +5,7 @@ date: 2026-08-18T19:50:00-03:00
 draft: false
 tags: ["experimento Asch", "por qué seguimos a la mayoría", "presión de grupo", "triángulo de la influencia", "toma de decisiones jóvenes"]
 categories: ["Temporada 1"]
+episodio: "e05-decidir-lo-contrario"
 author: "Claudio"
 ShowReadingTime: true
 ShowBreadCrumbs: true

@@ -5,6 +5,7 @@ date: 2026-06-26
 draft: false
 tags: ["decisiones bajo presión", "urgencia", "ventanas de reset", "psicología cognitiva", "FOMO"]
 categories: ["Temporada 1"]
+episodio: "e01t01-decidir-bajo-presion"
 author: "Claudio"
 ShowReadingTime: true
 ShowBreadCrumbs: true

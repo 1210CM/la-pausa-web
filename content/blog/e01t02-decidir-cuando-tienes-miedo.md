@@ -5,6 +5,7 @@ date: 2026-08-04
 draft: false
 tags: ["miedo a tomar una decisión", "miedo al fracaso", "amígdala y decisiones", "corteza prefrontal estrés", "dicotomía de control estoicismo"]
 categories: ["Temporada 1"]
+episodio: "e01t02-decidir-cuando-tienes-miedo"
 author: "Claudio"
 ShowReadingTime: true
 ShowBreadCrumbs: true

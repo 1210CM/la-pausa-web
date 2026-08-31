@@ -5,6 +5,7 @@ date: 2026-08-18T20:49:00-03:00
 draft: false
 tags: ["experimento Asch", "presión de grupo", "por qué seguimos a la mayoría", "dolor físico por discrepar", "conformidad social"]
 categories: ["Temporada 1"]
+episodio: "e05-decidir-lo-contrario"
 author: "Claudio"
 ShowReadingTime: true
 ShowBreadCrumbs: true

@@ -5,6 +5,7 @@ date: 2026-08-18T20:48:00-03:00
 draft: false
 tags: ["diferencia entre rebeldía y rebelarse", "desafío basado en principios", "valentía social", "presión de grupo", "toma de decisiones"]
 categories: ["Temporada 1"]
+episodio: "e05-decidir-lo-contrario"
 author: "Claudio"
 ShowReadingTime: true
 ShowBreadCrumbs: true

@@ -5,6 +5,7 @@ date: 2026-08-30
 draft: false
 tags: ["cómo decidir bien en una crisis", "decisiones bajo presión", "mentalizarse para decidir", "prepararse para crisis"]
 categories: ["Temporada 1"]
+episodio: "e06-decidir-en-crisis"
 author: "Claudio"
 ShowReadingTime: true
 ShowBreadCrumbs: true

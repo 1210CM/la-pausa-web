@@ -5,6 +5,7 @@ date: 2026-08-18T19:49:00-03:00
 draft: false
 tags: ["rebeldía no es libertad", "presión de grupo", "toma de decisiones jóvenes"]
 categories: ["Temporada 1"]
+episodio: "e04-decidir-bajo-influencia"
 author: "Claudio"
 ShowReadingTime: true
 ShowBreadCrumbs: true

@@ -1,11 +1,27 @@
 {{- /*
-  Secciones curadas del home. Toda la data (título, imagen, descripción, link,
-  video) sale del frontmatter real de cada página — data/home.yaml solo dice
-  QUÉ slugs mostrar. Ver home-web-actualizar.md para el proceso semanal.
+  Secciones curadas del home — automáticas desde 2026-08-30.
+  El episodio destacado es el más reciente por fecha (o el override manual de
+  data/home.yaml si está completado). Sus posts se arman solos: todo post de
+  /blog/ cuyo frontmatter tenga `episodio: <slug-del-episodio-destacado>`.
+  Anteriores = todo lo demás, ordenado por fecha. Ver home-web-actualizar.md.
 */}}
 
 {{- $data := hugo.Data.home }}
-{{- $destacado := site.GetPage (printf "/episodios/%s" $data.episodio_destacado) }}
+{{- $episodiosSection := site.GetPage "/episodios" }}
+{{- $blogSection := site.GetPage "/blog" }}
+
+{{- $destacado := "" }}
+{{- if $data.episodio_destacado_override }}
+  {{- $destacado = site.GetPage (printf "/episodios/%s" $data.episodio_destacado_override) }}
+{{- end }}
+{{- if not $destacado }}
+  {{- with $episodiosSection.Pages.ByDate.Reverse }}
+    {{- $destacado = index . 0 }}
+  {{- end }}
+{{- end }}
+
+{{- $destacadoSlug := "" }}
+{{- with $destacado }}{{ $destacadoSlug = .File.ContentBaseName }}{{ end }}
 
 {{- with $destacado }}
 <div class="home-section">
@@ -23,13 +39,19 @@
 </div>
 {{- end }}
 
-{{- with $data.posts_destacados }}
+{{- $postsDestacados := slice }}
+{{- range $blogSection.Pages }}
+  {{- if eq .Params.episodio $destacadoSlug }}
+    {{- $postsDestacados = $postsDestacados | append . }}
+  {{- end }}
+{{- end }}
+
+{{- with $postsDestacados }}
 <div class="home-section">
   <p class="home-label">Artículos de esta semana</p>
   <div class="posts-grid">
     {{- range . }}
-    {{- $post := site.GetPage (printf "/blog/%s" .) }}
-    {{- with $post }}
+    {{- $post := . }}
     <a class="post-card" href="{{ .Permalink }}">
       {{- with .Params.listImage }}
       <img src="{{ . }}" alt="{{ $post.Title }}" />
@@ -38,7 +60,6 @@
       <p>{{ .Params.description }}</p>
       <span class="cta-small">Leer más →</span>
     </a>
-    {{- end }}
     {{- end }}
   </div>
 </div>
@@ -70,42 +91,50 @@
 
 <hr style="opacity:0.2; margin: 2.5rem 0;" />
 
-{{- with $data.episodios_anteriores }}
+{{- $episodiosAnteriores := slice }}
+{{- range $episodiosSection.Pages.ByDate.Reverse }}
+  {{- if ne .File.ContentBaseName $destacadoSlug }}
+    {{- $episodiosAnteriores = $episodiosAnteriores | append . }}
+  {{- end }}
+{{- end }}
+
+{{- $postsAnteriores := slice }}
+{{- range $blogSection.Pages.ByDate.Reverse }}
+  {{- if ne .Params.episodio $destacadoSlug }}
+    {{- $postsAnteriores = $postsAnteriores | append . }}
+  {{- end }}
+{{- end }}
+
+{{- with $episodiosAnteriores }}
 <div class="home-section">
   <p class="home-label">Episodios anteriores</p>
   <ul class="link-list">
     {{- range . }}
-    {{- with site.GetPage (printf "/episodios/%s" .) }}
     <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-    {{- end }}
     {{- end }}
   </ul>
 </div>
 {{- end }}
 
-{{- with $data.posts_anteriores }}
+{{- with $postsAnteriores }}
 <div class="home-section">
   <p class="home-label">Artículos anteriores</p>
   <ul class="link-list">
     {{- range . }}
-    {{- with site.GetPage (printf "/blog/%s" .) }}
     <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-    {{- end }}
     {{- end }}
   </ul>
 </div>
 {{- end }}
 
-{{- with $data.episodios_anteriores }}
+{{- with $episodiosAnteriores }}
 <div class="home-section">
   <p class="home-label">Videos de YouTube anteriores</p>
   <ul class="link-list">
     {{- range . }}
-    {{- $ep := site.GetPage (printf "/episodios/%s" .) }}
-    {{- with $ep }}
+    {{- $ep := . }}
     {{- with .Params.youtube }}
     <li><a href="https://www.youtube.com/watch?v={{ . }}" target="_blank" rel="noopener">{{ $ep.Title }}</a></li>
-    {{- end }}
     {{- end }}
     {{- end }}
   </ul>

@@ -5,6 +5,7 @@ date: 2026-08-18T19:48:00-03:00
 draft: false
 tags: ["jóvenes toma de decisiones", "presión de grupo", "test del anonimato", "filtro de responsabilidad"]
 categories: ["Temporada 1"]
+episodio: "e04-decidir-bajo-influencia"
 author: "Claudio"
 ShowReadingTime: true
 ShowBreadCrumbs: true

@@ -5,6 +5,7 @@ date: 2026-08-18T20:46:00-03:00
 draft: false
 tags: ["firmeza con respeto", "defender tus ideas", "personalidad auténtica", "límites sanos", "presión de grupo"]
 categories: ["Temporada 1"]
+episodio: "e05-decidir-lo-contrario"
 author: "Claudio"
 ShowReadingTime: true
 ShowBreadCrumbs: true

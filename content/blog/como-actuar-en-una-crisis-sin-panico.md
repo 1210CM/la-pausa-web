@@ -5,6 +5,7 @@ date: 2026-08-30
 draft: false
 tags: ["cómo actuar en una crisis sin entrar en pánico", "crisis y decisiones", "botones de pánico Montevideo"]
 categories: ["Temporada 1"]
+episodio: "e06-decidir-en-crisis"
 author: "Claudio"
 ShowReadingTime: true
 ShowBreadCrumbs: true

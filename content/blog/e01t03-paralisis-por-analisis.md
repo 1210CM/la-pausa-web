@@ -5,6 +5,7 @@ date: 2026-08-07
 draft: false
 tags: ["parálisis por análisis", "toma de decisiones", "Daniel Kahneman", "análisis pre-mortem", "Gary Klein"]
 categories: ["Temporada 1"]
+episodio: "e01t03-paralisis-por-analisis"
 author: "Claudio"
 ShowReadingTime: true
 ShowBreadCrumbs: true
