@@ -11,7 +11,7 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 listImage: /images/e06-thumb-banerjee.jpg
 cover:
-  image: /images/e06-blog-cover.png
+  image: /images/e06-thumb-banerjee.jpg
   alt: "Secuestro amigdalar en una crisis"
   relative: false
 ---

@@ -11,7 +11,7 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 listImage: /images/e06-thumb-elpais.jpg
 cover:
-  image: /images/e06-blog-cover.png
+  image: /images/e06-thumb-elpais.jpg
   alt: "Cómo actuar en una crisis sin entrar en pánico — La Pausa"
   relative: false
 ---

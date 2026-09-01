@@ -11,7 +11,7 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 listImage: /images/e06-thumb-bezos.jpg
 cover:
-  image: /images/e06-blog-cover.png
+  image: /images/e06-thumb-bezos.jpg
   alt: "Las dos puertas de Bezos — La Pausa"
   relative: false
 ---
