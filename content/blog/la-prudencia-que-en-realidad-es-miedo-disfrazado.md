@@ -42,7 +42,7 @@ Y disfrazamos todo esto de **prudencia**. Pero la prudencia real analiza los rie
 
 ---
 
-¿En qué áreas de tu vida estás llamando prudencia a lo que en realidad es miedo a pagar el costo de hacer algo que sabés que tenés que hacer? En el [episodio 8 de *La Pausa*](https://podlapausa.com/proximo-episodio/) seguimos con esto, y con una herramienta concreta para salir del limbo.
+¿En qué áreas de tu vida estás llamando prudencia a lo que en realidad es miedo a pagar el costo de hacer algo que sabés que tenés que hacer? En el [episodio 8 de *La Pausa*](https://podlapausa.com/episodios/e08-decidir-cuando-el-costo-es-alto/) seguimos con esto, y con una herramienta concreta para salir del limbo.
 
 ---
 

@@ -40,7 +40,7 @@ No decidir también es decidir. Solo que es la única opción del menú que nunc
 
 ---
 
-Este es el primer mecanismo que exploramos en el [episodio 8 de *La Pausa*](https://podlapausa.com/proximo-episodio/): por qué el cerebro trata la inacción como si fuera gratis, y qué hacer con eso.
+Este es el primer mecanismo que exploramos en el [episodio 8 de *La Pausa*](https://podlapausa.com/episodios/e08-decidir-cuando-el-costo-es-alto/): por qué el cerebro trata la inacción como si fuera gratis, y qué hacer con eso.
 
 *Si esto te resuena, seguí leyendo el resto de la serie de posts de este episodio — cada uno desarma una parte distinta del mismo problema.*
 

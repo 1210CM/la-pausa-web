@@ -42,7 +42,7 @@ Y quiero ser claro en algo: tu cerebro no tiene ningún defecto. Ese desajuste d
 
 *Esto no es lo mismo que el miedo que paraliza por supervivencia —esa es otra historia, la que contamos en el episodio ["Decidir cuando tienes miedo"](https://podlapausa.com/episodios/e01t02-decidir-cuando-tienes-miedo/).*
 
-Seguí explorando el resto de esta idea en el [episodio 8 completo de *La Pausa*](https://podlapausa.com/proximo-episodio/).
+Seguí explorando el resto de esta idea en el [episodio 8 completo de *La Pausa*](https://podlapausa.com/episodios/e08-decidir-cuando-el-costo-es-alto/).
 
 ---
 

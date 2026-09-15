@@ -45,7 +45,7 @@ Esta es una de cuatro formas prácticas de estructurar una decisión así —las
 
 El costo de tomar decisiones importantes siempre va a existir. Crecer duele, aprender exige tiempo, cambiar de rumbo da incertidumbre. Pero la ilusión más peligrosa es creer que quedarse quieto no cuesta nada. La próxima vez que sientas que el costo de actuar es demasiado alto, hacé la pausa y cambiá la pregunta: no es cuánto vas a arriesgar si das el salto, es cuál es el precio que no estás dispuesto a pagar por quedarte exactamente donde estás.
 
-Herramienta completa, con todo el desarrollo detrás, en el [episodio 8 de *La Pausa*](https://podlapausa.com/proximo-episodio/).
+Herramienta completa, con todo el desarrollo detrás, en el [episodio 8 de *La Pausa*](https://podlapausa.com/episodios/e08-decidir-cuando-el-costo-es-alto/).
 
 ---
 
